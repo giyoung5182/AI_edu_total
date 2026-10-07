@@ -1,0 +1,3 @@
+Pretendard (orioncactus/pretendard) v1.3.9 — PretendardVariable.woff2
+License: SIL Open Font License 1.1 (https://github.com/orioncactus/pretendard/blob/main/LICENSE)
+대시보드를 인터넷 연결 없이 열어도 같은 글꼴로 보이도록 폴더에 함께 둔 파일임. 삭제하면 시스템 글꼴로 표시됨.

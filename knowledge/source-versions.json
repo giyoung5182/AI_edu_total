@@ -1,0 +1,328 @@
+{
+  "edition_date": "2026-10-08",
+  "cards_source_sha256": "4d0e3fdb559b6f3f74b6b4c3e7604a3127d691aacc63e2e87fa87c8a7c5867a1",
+  "documents": [
+    {
+      "document": "topics/01-ai-context-window-compaction.md",
+      "source_sha256": "c4f6dea073d78b1ff0429f4190b4c8f66241ea81f43708fe1dc1053ca1df96e2",
+      "source_kind": "자체 지식 요약 문서",
+      "card_count": 14,
+      "verification": "문서·카드 대응과 공개 편집 확인; 공식 출처 최신 미재검증"
+    },
+    {
+      "document": "topics/02-kakao-community-ai-cost-economics.md",
+      "source_sha256": "a42e3d2aeeeb5dbc755cc89a077f6862f3ba942ef5b9cb6295c76a506e4c695a",
+      "source_kind": "자체 지식 요약 문서",
+      "card_count": 15,
+      "verification": "문서·카드 대응과 공개 편집 확인; 공식 출처 최신 미재검증"
+    },
+    {
+      "document": "topics/03-kakao-community-ai-limitation-ga4-example.md",
+      "source_sha256": "2c329f7e560b34e865f5d689b31bd61f93dc3e0ba9d9a691582a3742e64adc67",
+      "source_kind": "자체 지식 요약 문서",
+      "card_count": 8,
+      "verification": "문서·카드 대응과 공개 편집 확인; 공식 출처 최신 미재검증"
+    },
+    {
+      "document": "topics/04-kakao-community-game-macro-legal-liability.md",
+      "source_sha256": "9bb9ae533857dd9f07fd38a4abb943ebba0b79346e5ae87ae571e7802fa5dd49",
+      "source_kind": "자체 지식 요약 문서",
+      "card_count": 3,
+      "verification": "문서·카드 대응과 공개 편집 확인; 공식 출처 최신 미재검증"
+    },
+    {
+      "document": "topics/05-ai-tools-candidates-2026-09.md",
+      "source_sha256": "79be189e219343046ad527377239312759811d82b46dbd212fde99b851f47e6d",
+      "source_kind": "자체 지식 요약 문서",
+      "card_count": 33,
+      "verification": "문서·카드 대응과 공개 편집 확인; 공식 출처 최신 미재검증"
+    },
+    {
+      "document": "topics/06-ai-tools-kb.md",
+      "source_sha256": "f4436b78ed0c2a1825482bc675ad1b03f5cedf6e0a199c65b2f74a8bf5d6f5ff",
+      "source_kind": "자체 지식 요약 문서",
+      "card_count": 20,
+      "verification": "문서·카드 대응과 공개 편집 확인; 공식 출처 최신 미재검증"
+    },
+    {
+      "document": "topics/07-aneundev-ai-room-tools.md",
+      "source_sha256": "0231e1826e7f77cf6f2a9a802eb987ffdc2e9932ee4b2ac14cc3bca551eb59f5",
+      "source_kind": "자체 지식 요약 문서",
+      "card_count": 25,
+      "verification": "문서·카드 대응과 공개 편집 확인; 공식 출처 최신 미재검증"
+    },
+    {
+      "document": "topics/08-codefactory-community-resources.md",
+      "source_sha256": "d2205928c60262e9c1083fc3852097f135ff6adfb1d217c9137660e73e0a74ad",
+      "source_kind": "자체 지식 요약 문서",
+      "card_count": 3,
+      "verification": "문서·카드 대응과 공개 편집 확인; 공식 출처 최신 미재검증"
+    },
+    {
+      "document": "topics/09-kakao-codefactory-2026-09-jev-classifier-model.md",
+      "source_sha256": "ea81245838c33b3127f8c3cccb6714553d3b06e25a2f1d65de0e4452af94f34c",
+      "source_kind": "자체 지식 요약 문서",
+      "card_count": 8,
+      "verification": "문서·카드 대응과 공개 편집 확인; 공식 출처 최신 미재검증"
+    },
+    {
+      "document": "topics/10-kakao-codefactory-2026-09-meta-muse.md",
+      "source_sha256": "182f43cf44dd714fe35449879a4538f032de9ea3df55f9cb716d923889a2d056",
+      "source_kind": "자체 지식 요약 문서",
+      "card_count": 9,
+      "verification": "문서·카드 대응과 공개 편집 확인; 공식 출처 최신 미재검증"
+    },
+    {
+      "document": "topics/11-kakao-community-remote-dev-tools.md",
+      "source_sha256": "a013f1c5c2706792b51ca4cd2c6a8a75ae0815bb6f6e9c75cbe091dbc0fc3a2e",
+      "source_kind": "자체 지식 요약 문서",
+      "card_count": 32,
+      "verification": "문서·카드 대응과 공개 편집 확인; 공식 출처 최신 미재검증"
+    },
+    {
+      "document": "topics/12-outstanding-aistudy-tools.md",
+      "source_sha256": "7b1176507a1b4b21c22c46197dc9d7d3c23043f9b15bc8f43e3d68d79735eb0b",
+      "source_kind": "자체 지식 요약 문서",
+      "card_count": 18,
+      "verification": "문서·카드 대응과 공개 편집 확인; 공식 출처 최신 미재검증"
+    },
+    {
+      "document": "topics/13-aneundev-ai-room-models.md",
+      "source_sha256": "7f9144812171561b63af37cce13fa3cf1fe96cac1bb11cb00b17c6821a520a68",
+      "source_kind": "자체 지식 요약 문서",
+      "card_count": 13,
+      "verification": "문서·카드 대응과 공개 편집 확인; 공식 출처 최신 미재검증"
+    },
+    {
+      "document": "topics/14-kakao-community-model-slang-glossary.md",
+      "source_sha256": "4858a9620a27d1c6cb8bf1d004d11088ab227bb4105008a6ac8f9cffcd9492fa",
+      "source_kind": "자체 지식 요약 문서",
+      "card_count": 36,
+      "verification": "문서·카드 대응과 공개 편집 확인; 공식 출처 최신 미재검증"
+    },
+    {
+      "document": "topics/15-outstanding-aistudy-models.md",
+      "source_sha256": "f826a150442990b0338f2c9ce40e5437c06c0dad3ebfeebc6c2fa3f525689ef6",
+      "source_kind": "자체 지식 요약 문서",
+      "card_count": 5,
+      "verification": "문서·카드 대응과 공개 편집 확인; 공식 출처 최신 미재검증"
+    },
+    {
+      "document": "topics/16-aneundev-ai-room-troubleshooting.md",
+      "source_sha256": "5e162be0a7bea47c567e14d29763eadd00760ea7870ad9bdcd6c53ca891b7662",
+      "source_kind": "자체 지식 요약 문서",
+      "card_count": 6,
+      "verification": "문서·카드 대응과 공개 편집 확인; 공식 출처 최신 미재검증"
+    },
+    {
+      "document": "topics/17-outstanding-aistudy-troubleshooting.md",
+      "source_sha256": "fc1306ca6c7151862da5977125c5b91e428145714eabcafff0e69624cce8c241",
+      "source_kind": "자체 지식 요약 문서",
+      "card_count": 2,
+      "verification": "문서·카드 대응과 공개 편집 확인; 공식 출처 최신 미재검증"
+    },
+    {
+      "document": "topics/18-aneundev-ai-room-security-legal.md",
+      "source_sha256": "6afa3805097e9f4b1120b8269c5a33590b17aaeda740dbcf9e8fd755b2a8110b",
+      "source_kind": "자체 지식 요약 문서",
+      "card_count": 20,
+      "verification": "문서·카드 대응과 공개 편집 확인; 공식 출처 최신 미재검증"
+    },
+    {
+      "document": "topics/19-outstanding-aistudy-security-legal.md",
+      "source_sha256": "b37a0e314e2e02eab7bb5568f35f380ff777f74265f78a89c02faefc2d8b21f7",
+      "source_kind": "자체 지식 요약 문서",
+      "card_count": 5,
+      "verification": "문서·카드 대응과 공개 편집 확인; 공식 출처 최신 미재검증"
+    },
+    {
+      "document": "topics/20-aneundev-ai-room-2026-10-early.md",
+      "source_sha256": "9fb8d25b1d88c3b7276da3ea0b4b66c1c61f5be9e5b407581b3be76a5b70db46",
+      "source_kind": "자체 지식 요약 문서",
+      "card_count": 9,
+      "verification": "문서·카드 대응과 공개 편집 확인; 공식 출처 최신 미재검증"
+    },
+    {
+      "document": "topics/21-aneundev-ai-room-industry-career.md",
+      "source_sha256": "bfee257b887a9c5b1ea4583aac8602d0386d257ca75fada594c14fb91b6721aa",
+      "source_kind": "자체 지식 요약 문서",
+      "card_count": 9,
+      "verification": "문서·카드 대응과 공개 편집 확인; 공식 출처 최신 미재검증"
+    },
+    {
+      "document": "topics/22-kakao-codefactory-2026-10-early.md",
+      "source_sha256": "f94c0e67a0d4f93350d3d65aaaf633fccc95dc15fb829d93996d54bcbedeb011",
+      "source_kind": "자체 지식 요약 문서",
+      "card_count": 52,
+      "verification": "문서·카드 대응과 공개 편집 확인; 공식 출처 최신 미재검증"
+    },
+    {
+      "document": "topics/23-kakao-community-industry-news-unverified.md",
+      "source_sha256": "429c52492f57200514c8c0312498ffa7cefd185dd7683e99871227ead0c405a5",
+      "source_kind": "자체 지식 요약 문서",
+      "card_count": 12,
+      "verification": "문서·카드 대응과 공개 편집 확인; 공식 출처 최신 미재검증"
+    },
+    {
+      "document": "topics/24-outstanding-aistudy-industry-career.md",
+      "source_sha256": "0a31de00720ec45d485ed367c80d80236d9e236d6ef379dc1ccb964cdce8c4fe",
+      "source_kind": "자체 지식 요약 문서",
+      "card_count": 19,
+      "verification": "문서·카드 대응과 공개 편집 확인; 공식 출처 최신 미재검증"
+    },
+    {
+      "document": "topics/25-outstanding-community-ai-agent-safety-incidents.md",
+      "source_sha256": "5c13599971651436593d490431d653ec5219be05973af86d82000b16599f514f",
+      "source_kind": "자체 지식 요약 문서",
+      "card_count": 25,
+      "verification": "문서·카드 대응과 공개 편집 확인; 공식 출처 최신 미재검증"
+    },
+    {
+      "document": "topics/26-outstanding-community-ai-dependency-debate.md",
+      "source_sha256": "9eb003d2c4b4ac3d631dd91142da595e47b01067bebf56db59e758a3b306dd85",
+      "source_kind": "자체 지식 요약 문서",
+      "card_count": 17,
+      "verification": "문서·카드 대응과 공개 편집 확인; 공식 출처 최신 미재검증"
+    },
+    {
+      "document": "topics/27-outstanding-community-ai-org-culture-columns.md",
+      "source_sha256": "72ea5509b59ce0006e007ec603c967b6496b953b48c8b6e975aa6575d7e5fc14",
+      "source_kind": "자체 지식 요약 문서",
+      "card_count": 18,
+      "verification": "문서·카드 대응과 공개 편집 확인; 공식 출처 최신 미재검증"
+    },
+    {
+      "document": "topics/28-outstanding-community-ai-subscription-cost-tips.md",
+      "source_sha256": "d99e5ab350aea26c4b4da9b54405c64cc1c4ffe20eb45d6fb10c9aca5ca31682",
+      "source_kind": "자체 지식 요약 문서",
+      "card_count": 21,
+      "verification": "문서·카드 대응과 공개 편집 확인; 공식 출처 최신 미재검증"
+    },
+    {
+      "document": "topics/29-outstanding-community-ai-wrapper-cursor.md",
+      "source_sha256": "c1cc78d6889d33458cc6f0b32967903cdb754912c61637ac8219fdf924c81391",
+      "source_kind": "자체 지식 요약 문서",
+      "card_count": 9,
+      "verification": "문서·카드 대응과 공개 편집 확인; 공식 출처 최신 미재검증"
+    },
+    {
+      "document": "topics/30-outstanding-community-claude-vs-cursor.md",
+      "source_sha256": "fb48943267717f8237965f2e7363577fff420931bf09bd46c55abf028b44e4d4",
+      "source_kind": "자체 지식 요약 문서",
+      "card_count": 12,
+      "verification": "문서·카드 대응과 공개 편집 확인; 공식 출처 최신 미재검증"
+    },
+    {
+      "document": "topics/31-outstanding-community-misc-industry-news.md",
+      "source_sha256": "7ab4ef9c30e17656bec863f76de33712c811e8818defcc0e05c38a890ec76081",
+      "source_kind": "자체 지식 요약 문서",
+      "card_count": 14,
+      "verification": "문서·카드 대응과 공개 편집 확인; 공식 출처 최신 미재검증"
+    },
+    {
+      "document": "topics/32-outstanding-community-naver-clovax-shutdown.md",
+      "source_sha256": "2ea8e87e24658ab7f4e087f5ca22fad22096a42f0493b14e85291a3a9d302b4b",
+      "source_kind": "자체 지식 요약 문서",
+      "card_count": 4,
+      "verification": "문서·카드 대응과 공개 편집 확인; 공식 출처 최신 미재검증"
+    },
+    {
+      "document": "topics/33-outstanding-community-upstage-strategy.md",
+      "source_sha256": "e1f05cfd3d3960be4ddde2bd8d6d8f66b0eeae61667435b06b20aa0a7f1a0132",
+      "source_kind": "자체 지식 요약 문서",
+      "card_count": 5,
+      "verification": "문서·카드 대응과 공개 편집 확인; 공식 출처 최신 미재검증"
+    },
+    {
+      "document": "topics/34-outstanding-dev-2026-09-late.md",
+      "source_sha256": "420c12f5e56bafda81be531b87b8e451c030768fd51f874dd5638c1d32338177",
+      "source_kind": "자체 지식 요약 문서",
+      "card_count": 5,
+      "verification": "문서·카드 대응과 공개 편집 확인; 공식 출처 최신 미재검증"
+    },
+    {
+      "document": "topics/35-promptwhat-2026-10-w1-news.md",
+      "source_sha256": "837b177ff92ba40971a13a3051a8c1eb9415eb087b87453877c4c97cde5c1245",
+      "source_kind": "자체 지식 요약 문서",
+      "card_count": 18,
+      "verification": "문서·카드 대응과 공개 편집 확인; 공식 출처 최신 미재검증"
+    },
+    {
+      "document": "topics/36-aneundev-ai-room-workflow.md",
+      "source_sha256": "2e5b2159a04a8f95cb4b25079cd38d820de483dbe5628f3920016652373659c5",
+      "source_kind": "자체 지식 요약 문서",
+      "card_count": 19,
+      "verification": "문서·카드 대응과 공개 편집 확인; 공식 출처 최신 미재검증"
+    },
+    {
+      "document": "topics/37-kakao-codefactory-2026-09-orchestration-workflow-tips.md",
+      "source_sha256": "6162b77a1fc4aac9fd80dbe38da47ff6f6d71409d7344d401425f7799f9aaf19",
+      "source_kind": "자체 지식 요약 문서",
+      "card_count": 30,
+      "verification": "문서·카드 대응과 공개 편집 확인; 공식 출처 최신 미재검증"
+    },
+    {
+      "document": "topics/38-kakao-community-role-division-workflow.md",
+      "source_sha256": "76aeb407fd01654b213392e411e21aa2f7d1e37f869c3d818e512a3379d50924",
+      "source_kind": "자체 지식 요약 문서",
+      "card_count": 22,
+      "verification": "문서·카드 대응과 공개 편집 확인; 공식 출처 최신 미재검증"
+    },
+    {
+      "document": "topics/39-outstanding-aistudy-workflow.md",
+      "source_sha256": "e6251fd42a452ac7ea3f6c03cf3ea3ff2b9853e1c0a4819eb192b12d5c4c902d",
+      "source_kind": "자체 지식 요약 문서",
+      "card_count": 7,
+      "verification": "문서·카드 대응과 공개 편집 확인; 공식 출처 최신 미재검증"
+    },
+    {
+      "document": "topics/40-theprompt-2026-09-late.md",
+      "source_sha256": "bd11e3385c4d653b5e60f3488f68c9de7aa6a947e2dffd110951f6d3284c0a5b",
+      "source_kind": "자체 지식 요약 문서",
+      "card_count": 12,
+      "verification": "문서·카드 대응과 공개 편집 확인; 공식 출처 최신 미재검증"
+    },
+    {
+      "document": "topics/41-aneundev-ai-room-pricing-limits.md",
+      "source_sha256": "97623bc9c8cdf26bb6412bf3fe70c6b360351c52be495f2dd3727c87e2d9c79c",
+      "source_kind": "자체 지식 요약 문서",
+      "card_count": 25,
+      "verification": "문서·카드 대응과 공개 편집 확인; 공식 출처 최신 미재검증"
+    },
+    {
+      "document": "topics/42-kakao-community-ai-subscription-vat.md",
+      "source_sha256": "5fa49c288d47a77f29009ab004ffd23b478f1b9e01540006bae05163677ec20c",
+      "source_kind": "자체 지식 요약 문서",
+      "card_count": 6,
+      "verification": "문서·카드 대응과 공개 편집 확인; 공식 출처 최신 미재검증"
+    },
+    {
+      "document": "topics/43-kakao-community-usage-limit-tips.md",
+      "source_sha256": "6fe47a173c468c1a89bf4ab372a55cc804b725f9469d9db477b3ea024fc89ffc",
+      "source_kind": "자체 지식 요약 문서",
+      "card_count": 56,
+      "verification": "문서·카드 대응과 공개 편집 확인; 공식 출처 최신 미재검증"
+    },
+    {
+      "document": "topics/44-outstanding-aistudy-pricing-limits.md",
+      "source_sha256": "8b99b1f7d3fdc527eb822a4793f2eb06e6ddf88ebbedb924354eafc6d84a796b",
+      "source_kind": "자체 지식 요약 문서",
+      "card_count": 7,
+      "verification": "문서·카드 대응과 공개 편집 확인; 공식 출처 최신 미재검증"
+    },
+    {
+      "document": "topics/45-aneundev-ai-room-hardware.md",
+      "source_sha256": "794ebbc48b36734f73508a195f8f0b9303cd452c1561f11444fa6c16243bca9b",
+      "source_kind": "자체 지식 요약 문서",
+      "card_count": 4,
+      "verification": "문서·카드 대응과 공개 편집 확인; 공식 출처 최신 미재검증"
+    },
+    {
+      "document": "topics/46-kakao-community-local-llm-hardware.md",
+      "source_sha256": "7506ea59ba612b4c8572936634150a3f7db6dd801c8cc57f27a36dc928d8738c",
+      "source_kind": "자체 지식 요약 문서",
+      "card_count": 16,
+      "verification": "문서·카드 대응과 공개 편집 확인; 공식 출처 최신 미재검증"
+    }
+  ]
+}
