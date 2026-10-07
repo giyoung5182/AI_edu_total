@@ -1,0 +1,11 @@
+* text=auto eol=lf
+*.html -text
+*.js text eol=lf
+*.json text eol=lf
+*.md text eol=lf
+*.py text eol=lf
+*.png binary
+*.jpg binary
+*.woff2 binary
+*.webm binary
+*.docx binary
