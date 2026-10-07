@@ -1,0 +1,27 @@
+{
+  "generated": "2026-10-08",
+  "method": "new SVG screenshot and canvas MediaRecorder VP8",
+  "sourceAssetsRead": false,
+  "clips": [
+    {
+      "file": "clip_0.webm",
+      "requestedSeconds": 16,
+      "bytes": 180230
+    },
+    {
+      "file": "clip_1.webm",
+      "requestedSeconds": 18,
+      "bytes": 200258
+    },
+    {
+      "file": "clip_2.webm",
+      "requestedSeconds": 12,
+      "bytes": 115829
+    },
+    {
+      "file": "clip_3.webm",
+      "requestedSeconds": 14,
+      "bytes": 154453
+    }
+  ]
+}

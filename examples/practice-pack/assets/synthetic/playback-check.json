@@ -1,0 +1,41 @@
+{
+  "method": "Chromium data URI metadata and seek at3sec",
+  "clips": [
+    {
+      "clip": 0,
+      "duration": 15.954243,
+      "finite": true,
+      "seekable": 1,
+      "seekTime": 3,
+      "width": 640,
+      "height": 360
+    },
+    {
+      "clip": 1,
+      "duration": 17.947128,
+      "finite": true,
+      "seekable": 1,
+      "seekTime": 3,
+      "width": 640,
+      "height": 360
+    },
+    {
+      "clip": 2,
+      "duration": 11.956513,
+      "finite": true,
+      "seekable": 1,
+      "seekTime": 3,
+      "width": 640,
+      "height": 360
+    },
+    {
+      "clip": 3,
+      "duration": 13.95587,
+      "finite": true,
+      "seekable": 1,
+      "seekTime": 3,
+      "width": 640,
+      "height": 360
+    }
+  ]
+}

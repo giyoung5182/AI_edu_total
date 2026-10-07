@@ -1,0 +1,87 @@
+{
+
+  "criteria": "교육용 검수기준 v1·2026-10-07",
+
+  "source": "02_견적_오류.csv",
+
+  "rows": 5,
+
+  "issues": [
+
+    {
+
+      "csv_line": 2,
+
+      "field": "참여율",
+
+      "issue": "0보다 크고 1 이하여야 함"
+
+    },
+
+    {
+
+      "csv_line": 3,
+
+      "field": "근거",
+
+      "issue": "근거 누락·담당자 확인 필요"
+
+    },
+
+    {
+
+      "csv_line": 5,
+
+      "field": "수량",
+
+      "issue": "0보다 커야 함"
+
+    },
+
+    {
+
+      "csv_line": 6,
+
+      "field": "항목",
+
+      "issue": "같은 유형·항목의 중복 의심·자동 삭제 금지"
+
+    }
+
+  ],
+
+  "status": "보류",
+
+  "calculation_is_final": false,
+
+  "valid_rows": [
+
+    {
+
+      "csv_line": 4,
+
+      "item": "편집",
+
+      "amount": "3000000"
+
+    }
+
+  ],
+
+  "direct_cost": "3000000",
+
+  "fee": "300000.0",
+
+  "subtotal": "3300000.0",
+
+  "vat": "330000.00",
+
+  "total": "3630000.00",
+
+  "budget": 13000000,
+
+  "budget_remaining": "9370000.00",
+
+  "meaning_review": "제작 범위·단가 현실성·증빙 여부는 AI 검토와 사람 확인이 필요함"
+
+}

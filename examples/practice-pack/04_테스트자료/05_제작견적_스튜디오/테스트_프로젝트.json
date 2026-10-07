@@ -1,0 +1,87 @@
+{
+  "schema": "edu-v3",
+  "kind": "estimate",
+  "state": {
+    "project": "ORBIT · 시즌 행사 견적",
+    "lines": [
+      {
+        "id": "l0",
+        "name": "프로젝트 기획",
+        "type": "인건비",
+        "qty": 1,
+        "rate": 3500000,
+        "months": 2,
+        "ratio": 0.5,
+        "included": true,
+        "adjustable": true,
+        "note": "교육용 단가 가정 · 회사 기준으로 교체"
+      },
+      {
+        "id": "l1",
+        "name": "디자인",
+        "type": "인건비",
+        "qty": 2,
+        "rate": 4000000,
+        "months": 1,
+        "ratio": 0.6,
+        "included": true,
+        "adjustable": true,
+        "note": "교육용 단가 가정 · 회사 기준으로 교체"
+      },
+      {
+        "id": "l2",
+        "name": "영상 촬영",
+        "type": "외주",
+        "qty": 1,
+        "rate": 3200000,
+        "months": 1,
+        "ratio": 1,
+        "included": true,
+        "adjustable": true,
+        "note": "교육용 단가 가정 · 회사 기준으로 교체"
+      },
+      {
+        "id": "l3",
+        "name": "장소 대관",
+        "type": "외주",
+        "qty": 2,
+        "rate": 800000,
+        "months": 1,
+        "ratio": 1,
+        "included": true,
+        "adjustable": false,
+        "note": "교육용 단가 가정 · 회사 기준으로 교체"
+      },
+      {
+        "id": "l4",
+        "name": "운영 인력",
+        "type": "경비",
+        "qty": 4,
+        "rate": 200000,
+        "months": 1,
+        "ratio": 1,
+        "included": true,
+        "adjustable": false,
+        "note": "교육용 단가 가정 · 회사 기준으로 교체"
+      },
+      {
+        "id": "l5",
+        "name": "장비 배송",
+        "type": "경비",
+        "qty": 1,
+        "rate": 250000,
+        "months": 1,
+        "ratio": 1,
+        "included": true,
+        "adjustable": false,
+        "note": "교육용 단가 가정 · 회사 기준으로 교체"
+      }
+    ],
+    "fee": 10,
+    "vat": 10,
+    "discount": 0,
+    "baseline": null,
+    "logs": [],
+    "assumptions": "기획·디자인 각 1회 수정 포함. 촬영 1일 기준. 추가 촬영·행사 보험·출장비는 별도 협의. 모든 수치는 교육용 가정입니다."
+  }
+}

@@ -1,0 +1,13 @@
+이 폴더에서 campaign-estimate-review 스킬로 input/02_견적_오류.csv를 검토해줘.
+
+먼저 CLAUDE.md와 reference/01_검수기준.md를 읽고 적용한 파일·버전을 알려줘.
+
+원본은 고치지 말고 행 번호별 문제·근거·담당자에게 물어볼 내용을 output/05_내첫검토.md에 작성해줘.
+
+Python이 가능하면 python checks/check_estimate.py input/02_견적_오류.csv --out output/05_내첫검사.json 을 실행해 계산과 형식을 대조해줘.
+
+불가능하면 실행하지 못했다고 밝히고 수동 대조표를 보여줘.
+
+estimate-reviewer 담당자에게 별도로 대조하게 하고 의견을 함께 남겨줘. 담당자를 사용할 수 없다면 직접 대조했음을 구분해줘.
+
+오류가 있으면 지금은 수정하지 말고 어떤 값의 확인이 필요한지 보여줘.

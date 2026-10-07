@@ -1,0 +1,75 @@
+{
+
+  "criteria": "교육용 검수기준 v1·2026-10-07",
+
+  "source": "04_수정済_견적.csv",
+
+  "rows": 4,
+
+  "issues": [],
+
+  "status": "기본 규칙 통과",
+
+  "calculation_is_final": true,
+
+  "valid_rows": [
+
+    {
+
+      "csv_line": 2,
+
+      "item": "기획·PM",
+
+      "amount": "4000000.0"
+
+    },
+
+    {
+
+      "csv_line": 3,
+
+      "item": "촬영",
+
+      "amount": "3000000"
+
+    },
+
+    {
+
+      "csv_line": 4,
+
+      "item": "편집",
+
+      "amount": "3000000"
+
+    },
+
+    {
+
+      "csv_line": 5,
+
+      "item": "이동비",
+
+      "amount": "500000"
+
+    }
+
+  ],
+
+  "direct_cost": "10500000.0",
+
+  "fee": "1050000.00",
+
+  "subtotal": "11550000.00",
+
+  "vat": "1155000.000",
+
+  "total": "12705000.000",
+
+  "budget": 13000000,
+
+  "budget_remaining": "295000.000",
+
+  "meaning_review": "제작 범위·단가 현실성·증빙 여부는 AI 검토와 사람 확인이 필요함"
+
+}

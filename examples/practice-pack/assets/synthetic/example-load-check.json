@@ -1,0 +1,88 @@
+{
+  "method": "Chromium setContent of edited HTML; no local-server navigation",
+  "checks": [
+    {
+      "file": "01_레퍼런스_큐레이터.html",
+      "errors": [],
+      "title": "이미지 레퍼런스 모으고 비교하기 · 교육용 예제",
+      "jszip": "function",
+      "pptx": "undefined",
+      "images": [
+        {
+          "loaded": true,
+          "width": 640
+        },
+        {
+          "loaded": true,
+          "width": 640
+        },
+        {
+          "loaded": true,
+          "width": 640
+        },
+        {
+          "loaded": true,
+          "width": 640
+        },
+        {
+          "loaded": true,
+          "width": 640
+        },
+        {
+          "loaded": true,
+          "width": 640
+        },
+        {
+          "loaded": true,
+          "width": 640
+        },
+        {
+          "loaded": true,
+          "width": 640
+        }
+      ],
+      "schema": "catalog"
+    },
+    {
+      "file": "02_영상제작_리뷰룸.html",
+      "errors": [],
+      "title": "영상 수정 요청과 컷 검수하기 · 교육용 예제",
+      "jszip": "function",
+      "pptx": "undefined",
+      "images": [],
+      "schema": "review"
+    },
+    {
+      "file": "03_BX_운영컨트롤.html",
+      "errors": [],
+      "title": "공간 안내와 관람 동선 설계하기 · 교육용 예제",
+      "jszip": "function",
+      "pptx": "undefined",
+      "images": [],
+      "schema": "bx"
+    },
+    {
+      "file": "04_기획안_스토리보드.html",
+      "errors": [],
+      "title": "기획안과 발표 슬라이드 만들기 · 교육용 예제",
+      "jszip": "function",
+      "pptx": "undefined",
+      "images": [],
+      "schema": "deck"
+    },
+    {
+      "file": "05_제작견적_스튜디오.html",
+      "errors": [],
+      "title": "제작 비용과 견적 비교하기 · 교육용 예제",
+      "jszip": "function",
+      "pptx": "undefined",
+      "images": [],
+      "schema": "estimate"
+    }
+  ],
+  "pptxConstructionCheck": {
+    "global": "function",
+    "slideCount": 1,
+    "layout": "LAYOUT_WIDE"
+  }
+}
