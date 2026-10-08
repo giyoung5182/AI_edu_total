@@ -1,7 +1,7 @@
 {
   "edited_on": "2026-10-08",
   "scope": "public educational bundle; excludes manifest and CSV self hashes",
-  "file_count": 681,
+  "file_count": 696,
   "files": [
     {
       "path": ".gitattributes",
@@ -15,8 +15,8 @@
     },
     {
       "path": "catalog/README.md",
-      "bytes": 2230,
-      "sha256": "593b004088b9530bda2b4ed388f5c7dcd0332b8e6a24a00482e6d84c96fff08b"
+      "bytes": 2425,
+      "sha256": "564962204d284477090a996421d94524261285471dfce019a05407d50c8b812e"
     },
     {
       "path": "examples/estimate-review/.claude/agents/estimate-reviewer.md",
@@ -775,8 +775,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 3903,
-      "sha256": "8b14feb07db6fe40395ff2f6c81da8d85bf32020293978e2ce3c052aa2df68ee"
+      "bytes": 4184,
+      "sha256": "0fe385726283385abcff2cc0044334146fb72ff030ced61551d7b1f17cf8db5f"
     },
     {
       "path": "knowledge/2026-10-07-new-topics.md",
@@ -3254,6 +3254,11 @@
       "sha256": "1e3ae59e8c7b94f17450f3fc72a76b45a2ab75ea8d469bffaf09ce8a9fa98f91"
     },
     {
+      "path": "methods/cardnews-and-ppt-production-spec.md",
+      "bytes": 2508,
+      "sha256": "31893681b9e96eefe29a0afcd13de29b5185efdee1fa97091f3bef9efcad2628"
+    },
+    {
       "path": "methods/cohort-survey-analysis.md",
       "bytes": 2548,
       "sha256": "cc78a52d1e460fabe4f3fb918a69c50d6cf09ddde7a8122bea56cee2ac56503c"
@@ -3279,6 +3284,16 @@
       "sha256": "a527b2245b94b42ae6e49931a54698f616864ddec4c82847a0f1f30f37b44bc3"
     },
     {
+      "path": "methods/image-prompt-gallery-workflow.md",
+      "bytes": 1967,
+      "sha256": "4f0ac1d72df6c75533124f27d36dfd6dfb94f6ef48b1802f5998f9c9130c6efc"
+    },
+    {
+      "path": "methods/image-shortcuts-as-prompts.md",
+      "bytes": 1550,
+      "sha256": "eb8bb8f290644303b413f9e6daa7d0bd2396f3c9df2cc63d856d5e9e7cf0f07d"
+    },
+    {
       "path": "methods/knowledge-update-workflow.md",
       "bytes": 3287,
       "sha256": "e0f0bccba5347de5450a3ae94a3d17de057d11481536f5f2ee01f02072d5c0a1"
@@ -3290,13 +3305,28 @@
     },
     {
       "path": "methods/README.md",
-      "bytes": 1572,
-      "sha256": "57427d773d077bb8f7976537a5f6699f2ca19351528e237726ebb3f9db5787e0"
+      "bytes": 2380,
+      "sha256": "f623742adb53b72d6dbe8ffab0c6feca43734831c7c44c3f6f32dc4b994dd603"
     },
     {
       "path": "methods/reusable-prompts.md",
       "bytes": 2718,
       "sha256": "32ea9d5c57ed5b75e7b0da8806d981af2d4297a6705e221c12ab8006d879ad44"
+    },
+    {
+      "path": "methods/slash-commands-and-prompt-labels.md",
+      "bytes": 1695,
+      "sha256": "91c728ff2ba9c237b1aaee4080af857a0c09598820999836d88e9958cd175285"
+    },
+    {
+      "path": "methods/source-classification-workflow.md",
+      "bytes": 1682,
+      "sha256": "ce5f845c1728f78220b19786e7a29a01f40d0f5f4b7651f9669802fc1b2b5451"
+    },
+    {
+      "path": "methods/writing-style-review-workflow.md",
+      "bytes": 1483,
+      "sha256": "16c4704eea916982db44466abeb6b0f216986242c41d91c5190425c36b14f78b"
     },
     {
       "path": "NOTICE.md",
@@ -3315,8 +3345,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 3889,
-      "sha256": "2662f501895ddfc67c73b9914345bf5d34ba1026240f82f0693bc743d52a6a24"
+      "bytes": 4176,
+      "sha256": "df783a4411a59ec60093f0c9d8deb9dc02e7140d285fe7270e2e77e5febee026"
     },
     {
       "path": "references/program-catalog.md",
@@ -3325,8 +3355,13 @@
     },
     {
       "path": "references/README.md",
-      "bytes": 906,
-      "sha256": "d76fb5157cdecb2e9558064c0a6cb21db1133a244d694b187f15eb4a92a5fa93"
+      "bytes": 1082,
+      "sha256": "cd128605cc37e795179458246ce0a2211d3a870d6b9b4f51121768d468fa96b8"
+    },
+    {
+      "path": "references/shared-materials-2026-10-08.md",
+      "bytes": 4727,
+      "sha256": "aaa0c0c093e7c23426f20d4a933e57bf63febdecebc3fcd9c0fb4b6129ef2a05"
     },
     {
       "path": "references/skill-catalog.md",
@@ -3375,8 +3410,48 @@
     },
     {
       "path": "VERIFICATION.md",
-      "bytes": 3546,
-      "sha256": "b097806494bbb351513bc1684db4617de224120262e594ec401f6a6aa72b565e"
+      "bytes": 4539,
+      "sha256": "0de5a9785028f61d3ec1d319ef7426d2a375aae7db59c692c9287193930d4c74"
+    },
+    {
+      "path": "workflows/conversation-to-assets/examples/cardnews-project.md",
+      "bytes": 1812,
+      "sha256": "2e8c70eee1dd3a00022a3b4eb9d917aacd2a1e5120bf05b2a802ee9def378d33"
+    },
+    {
+      "path": "workflows/conversation-to-assets/examples/user-requirement-insight.md",
+      "bytes": 1043,
+      "sha256": "d1b3bee565010793865f9894d36a8fcf23f5f169e02e79eb55c2f498343b6d17"
+    },
+    {
+      "path": "workflows/conversation-to-assets/README.md",
+      "bytes": 4604,
+      "sha256": "6abc708e0b160296f41ecd183a3ab7068d0db65a1ea40fdf93c0b026a743c590"
+    },
+    {
+      "path": "workflows/conversation-to-assets/templates/case-card.md",
+      "bytes": 980,
+      "sha256": "584907ecc8b2e40220c932c247a2631047cd97c228dc952d9b8e5deb8289f5a3"
+    },
+    {
+      "path": "workflows/conversation-to-assets/templates/conversation-index.csv",
+      "bytes": 248,
+      "sha256": "732181bdc9156d1d5986dce6f2812d4ecae83d5ef4d86cab9dc92ce471e19e5f"
+    },
+    {
+      "path": "workflows/conversation-to-assets/templates/lesson-asset.md",
+      "bytes": 1070,
+      "sha256": "457d4688ab6fa8f062120eaeb7be5795dfc9cddae452a5687a1fbed154ff0fe5"
+    },
+    {
+      "path": "workflows/conversation-to-assets/templates/project-map.csv",
+      "bytes": 227,
+      "sha256": "fcdc7177b22a221634c106b0206fbef71acd865cf27fb00e42c171ff01604c7c"
+    },
+    {
+      "path": "workflows/conversation-to-assets/templates/prompt-card.md",
+      "bytes": 976,
+      "sha256": "baecd868a8cc27994a13ed549fce7a0fdbf1247d0f3f739baa911d78f4b9f773"
     },
     {
       "path": "workflows/knowledge-dashboard/build_dashboard.py",

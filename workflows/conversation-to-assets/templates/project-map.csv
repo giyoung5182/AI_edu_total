@@ -1,0 +1,2 @@
+﻿project_id,title,goal,input_types,output_types,conversation_ids,status
+P001,가상 카드뉴스 제작,근거를 보존한 5장 카드뉴스 설계,CSV;가상 이미지,카드별 문안;검수표,DEMO-C001,새 작성 설계

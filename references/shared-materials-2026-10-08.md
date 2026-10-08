@@ -1,0 +1,32 @@
+# 추가 공유자료 검토와 활용 목록
+
+정리일 2026-10-08. 메시지 작성자 이름·시각·개인 대화 원문을 제거했습니다. 이 표는 확보 상태를 기록하며, 미확보 원문을 요약한 것으로 표시하지 않습니다.
+
+| 자료 | 확인 결과 | 반영 |
+|---|---|---|
+| 10월 첫째 주 AI 뉴스16 | 두 폴더 중 로컬 전문요지 존재. 기존 공개 지식에 이미 편집·공식 대조 기록 | [기존 뉴스 지식](../knowledge/topics/35-promptwhat-2026-10-w1-news.md) 연결. 현행 재검증은 별개 |
+| 9월 셋째 주 AI 뉴스10 | 제공 메시지의 도입·날짜만 있음. 10건 목록과 공식 링크 미확보 | 전문 확보 후 검토할 후보 |
+| GPT Image2 갤러리 | [갤러리](https://gpt-image2.canghe.ai/)와 [원 제작 저장소](https://github.com/freestylefly/awesome-gpt-image-2) 확인. 현재541기록·13갈래·22템플릿 | [이미지 프롬프트 활용](../methods/image-prompt-gallery-workflow.md) |
+| 이미지 비밀코드100 | [정리본](https://app.notion.com/p/3c5fd99f0e5f8108a4ccfd3f5fa0bea3) 접근 실패 | [단축어를 명시적 요청으로 바꾸기](../methods/image-shortcuts-as-prompts.md). 100개 원목록 아님 |
+| AI 문체 다듬기 | [im-not-ai](https://github.com/epoko77-ai/im-not-ai) README v2.3.2·10범주85패턴(hold1포함), MIT 확인. 설치·효과 미확인 | [의미 보존 검수 절차](../methods/writing-style-review-workflow.md) |
+| ChatGPT 명령어·단축어 | [공식 표](https://learn.chatgpt.com/docs/reference/slash-commands)28개 확인. 원76/24정리본 미열람 | [명령어·스킬·별칭 구분](../methods/slash-commands-and-prompt-labels.md) |
+| 대화→폴더→프로젝트→교육 에셋 요구 | 현재 사용자 실제 작성 요구 확인. 원문은 공개하지 않고 의미 재서술 | [워크플로우·템플릿·예시](../workflows/conversation-to-assets/README.md) |
+| Tistory 공유 링크 | [실제 글](https://seo2-heimish.tistory.com/20)은 Jev 분류·판단 활용, 카드뉴스 글과 다름 | [자료 분류 설계](../methods/source-classification-workflow.md) |
+| 카드뉴스 마스터 시트 XLSX | 지정 파일과 유사명 두 폴더에서 미발견 | [마스터 시트 새 작성 설계](../methods/cardnews-and-ppt-production-spec.md) |
+| 카드뉴스 에이전트 ver0.3 PDF | 지정 파일 미발견. 동일 제목 웹 사본은 배포 금지 문구·원 배포본 여부 미확인 | 파일·전문·코드 복제 없이 범용 제작 흐름 새 작성 |
+| 마스터 썸네일 PDF | 파일명만 제공, 두 폴더에서 미발견 | 썸네일 검수 항목을 제작 설계에 포함 |
+| Claude PPT Skill PDF | 파일명만 제공, 두 폴더에서 미발견 | PPT 입력·출력·편집·저장·재열기 설계 |
+| Docurise 공유 링크 | [뷰어](https://docurise.io/lzen09/d/jay-pm-ai-1udo0qqx) 제목은 웹 포트폴리오 분석 자료. PDF 본문 미확보·다운로드 비활성 | PPT 스킬 내용으로 연결하지 않음 |
+| blob 주소 | 특정 브라우저 세션의 임시 리소스 주소, 실제 파일 미수신 | 공개 다운로드 주소로 취급하지 않음 |
+
+## 수량·출처 보완
+
+갤러리의 소개문523장·21틀과 현재541기록·22틀은 다릅니다. 과거 시점 차이일 수 있으나 역사 수량은 확인하지 않았습니다. 기록 수는 고유 이미지 수·모든 이미지의 사용권·실제 모델을 입증하지 않습니다. 템플릿 스킬 소스는 [고정 버전](https://github.com/freestylefly/awesome-gpt-image-2/tree/65a9c57a1968a13f2f1997c58409cac9aa146bc7/agents/skills/gpt-image-2-style-library)에서 확인했으며 설치하지 않았습니다.
+
+MIT 소프트웨어 라이선스와 제3자 이미지·프롬프트·문서 권리는 별개입니다. 전체 갤러리·외부 PDF·XLSX·노션 전문·개인 대화 원문을 이 저장소에 복제하지 않았습니다. 이번 추가분은 링크·짧은 검토·새 작성 절차와 가상 예시 중심입니다.
+
+노션4개(갤러리 정리본·비밀코드·윤문·단축어)는 웹 접근 실패와 연결 계정404로 원문 미열람입니다. 추가 원문 후보: [갤러리 정리본](https://app.notion.com/p/3c5fd99f0e5f810b9304c49637de0ebd) · [윤문 정리본](https://app.notion.com/p/3c6fd99f0e5f8185ba9fcf4beafa7367) · [단축어 정리본](https://app.notion.com/p/ChatGPT-3affd99f0e5f819d8623cf3d2cc86cc6).
+
+## 다음 원문 수신 때
+
+9월 뉴스10건 본문, 카드뉴스 PDF/XLSX·썸네일 원본, 정확한 PPT 스킬 원출처를 받으면 각 항목의 확보 상태와 실제 내용을 갱신합니다. 현재 파일명을 실제 첨부 수신으로 기록하지 않습니다.

@@ -15,3 +15,15 @@
 | [업무 설계 다섯 관점](five-engineering-perspectives.md) | 요청·맥락·환경·루프·분기를 함께 설계할 때 |
 
 외부 도구·스킬 출처는 [참고 목록](../references/README.md)에서 찾습니다.
+
+## 추가 공유자료에서 확장한 교육 절차
+
+- [이미지 갤러리에서 프롬프트 만들기](image-prompt-gallery-workflow.md)
+- [이미지 단축어를 명시적 요청문으로 바꾸기](image-shortcuts-as-prompts.md)
+- [의미를 보존하는 문체 검수](writing-style-review-workflow.md)
+- [명령어·스킬·프롬프트 별칭 구분](slash-commands-and-prompt-labels.md)
+- [요약·분류·판단을 나누는 자료실](source-classification-workflow.md)
+- [카드뉴스·썸네일·PPT 프로젝트 설계](cardnews-and-ppt-production-spec.md)
+- [대화에서 교육 에셋 만들기](../workflows/conversation-to-assets/README.md)
+
+외부 자료의 확인 범위와 미확보 원문은 [추가 공유자료 목록](../references/shared-materials-2026-10-08.md)을 따릅니다.

@@ -1,0 +1,2 @@
+﻿conversation_id,project_ids,private_source_location,source_hash,source_date,user_prompt_count,case_count,review_status,public_scope
+DEMO-C001,P001,비공개 원문 경로는 공개본에 쓰지 않음,,미상,,,원문 미제공,가상 실습만

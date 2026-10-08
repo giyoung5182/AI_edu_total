@@ -21,6 +21,8 @@
 - [Claude 연결 가이드](../guides/claude-connectors/00_2026-10-07_Claude_플러그인_커넥터_가이드.html)
 - [GitHub 스킬 가이드](../guides/skills/00_2026-10-07_정리_깃허브_스킬가이드.html)
 - [업무 설계 다섯 관점](../guides/engineering/00_2026-10-07_AI업무설계_5가지엔지니어링.html)
+- [추가 공유자료 검토·활용 목록](../references/shared-materials-2026-10-08.md)
+- [대화에서 프로젝트·교육 에셋 만들기](../workflows/conversation-to-assets/README.md)
 
 ## 폴더별 구성
 
@@ -30,9 +32,9 @@
 | [직접 실행하는 도구](../tools/) | 6 | tools/ |
 | [가상 업무와 완성예제](../examples/) | 134 | examples/ |
 | [분야별 지식과 주차 기록](../knowledge/) | 493 | knowledge/ |
-| [생성 코드와 데이터 규격](../workflows/) | 6 | workflows/ |
-| [교육·분석·검증·갱신 방법론](../methods/) | 10 | methods/ |
-| [스킬·프로그램 출처 카탈로그](../references/) | 4 | references/ |
+| [생성 코드와 데이터 규격](../workflows/) | 14 | workflows/ |
+| [교육·분석·검증·갱신 방법론](../methods/) | 16 | methods/ |
+| [스킬·프로그램 출처 카탈로그](../references/) | 5 | references/ |
 
 [파일별 경로와 SHA256](manifest.json) · [정렬용 CSV](files.csv)
 
