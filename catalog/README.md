@@ -4,6 +4,7 @@
 
 ## 빠른 시작
 
+- [노션 교육 프로젝트·교안·실습·프롬프트](../knowledge/notion-education/README.md)
 - [AI 작업폴더 설계](../guides/workspace/index.html)
 - [AI 기능 지도](../guides/function-map/index.html)
 - [MCP·API·외부도구 연결](../guides/connections/index.html)
@@ -33,10 +34,10 @@
 | [업무 설계와 기능 학습](../guides/) | 17 | guides/ |
 | [직접 실행하는 도구](../tools/) | 6 | tools/ |
 | [가상 업무와 완성예제](../examples/) | 134 | examples/ |
-| [분야별 지식과 주차 기록](../knowledge/) | 493 | knowledge/ |
+| [분야별 지식과 주차 기록](../knowledge/) | 2141 | knowledge/ |
 | [생성 코드와 데이터 규격](../workflows/) | 14 | workflows/ |
 | [교육·분석·검증·갱신 방법론](../methods/) | 16 | methods/ |
-| [스킬·프로그램 출처 카탈로그](../references/) | 14 | references/ |
+| [스킬·프로그램 출처 카탈로그](../references/) | 15 | references/ |
 | [직접 읽은 공개 프로젝트 소스](../vendor/) | 233 | vendor/ |
 
 [파일별 경로와 SHA256](manifest.json) · [정렬용 CSV](files.csv)

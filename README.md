@@ -6,6 +6,7 @@
 
 | 목적 | 시작할 곳 |
 |---|---|
+| 노션 교안·교육 프로젝트·상세 실습 재사용 | [노션 교육자료](knowledge/notion-education/README.md) · [프로젝트별 시작점](knowledge/notion-education/projects.md) |
 | 자료·규칙·스킬·기억을 작업폴더로 정리 | [작업폴더 설계](guides/workspace/index.html) |
 | ChatGPT·Claude·Gemini 기능 비교 | [AI 기능 지도](guides/function-map/index.html) |
 | MCP·커넥터·API 연결 이해 | [외부도구 연결](guides/connections/index.html) |
