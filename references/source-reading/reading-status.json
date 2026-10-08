@@ -1,0 +1,59 @@
+{
+  "checked_on": "2026-10-08",
+  "method": "Direct reading in existing Chrome sessions; source text was read through the visible browser interface",
+  "public_anonymous_access_verified": false,
+  "sources": [
+    {
+      "title": "GPT Image 2 프롬프트 갤러리 뜯어 쓰는 법",
+      "url": "https://app.notion.com/p/3c5fd99f0e5f810b9304c49637de0ebd",
+      "source_reference_date": "2026-08-23",
+      "reading": "From introduction through final section; collapsed 13-category and 21-template tables expanded and read",
+      "finding": "21 beginner selections from 22 total templates, rather than an older total of 21",
+      "image_generation_executed": false
+    },
+    {
+      "title": "ChatGPT 이미지 비밀 코드 100가지",
+      "url": "https://app.notion.com/p/3c5fd99f0e5f8108a4ccfd3f5fa0bea3",
+      "source_reference_date": "2026-08",
+      "list_unique_codes": 100,
+      "category_count": 10,
+      "codes_per_category": 10,
+      "long_details_read": {"primary_reader": [[1,69],[100,100]], "independent_reader": [[70,99]], "completed_items": 100, "missing_items": []},
+      "scope": "Use case, base-image description, long base-generation prompt, long edit prompt, input example and final rules",
+      "gaps_revisited": ["9-10", "28-32", "92", "99"],
+      "caption_mismatches": [22,23,31],
+      "finding": "User prompt labels; not official hidden commands. Concept visualizations and staged additions do not prove measured or real-world facts",
+      "image_generation_executed": false
+    },
+    {
+      "title": "AI 티 나는 글 제거 스킬 사용법",
+      "url": "https://app.notion.com/p/3c6fd99f0e5f8185ba9fcf4beafa7367",
+      "source_reference_date": "2026-08-24",
+      "source_readme_version": "v2.3.2",
+      "reading": "Six main sections and all 13 collapsed explanations read, including categories, preserved content, installation, use, token routes and errors",
+      "finding": "Article's 70 patterns and Codex single-call description differ from current upstream's 85 patterns and three Codex routes",
+      "installation_or_rewriting_executed": false
+    },
+    {
+      "title": "ChatGPT 명령어·단축어 총정리",
+      "url": "https://app.notion.com/p/ChatGPT-3affd99f0e5f819d8623cf3d2cc86cc6",
+      "source_reference_date": "2026-08-02",
+      "reading": "All six prompt groups, 76 unique unofficial labels, 24-entry official table and final four principles read",
+      "current_official_table_count": 28,
+      "only_in_article_table": ["/personality","/task"],
+      "only_in_current_official_table": ["/archive","/chat","/new","/pin","/rename","/usage"],
+      "finding": "Table differences do not establish removal of entire product capabilities",
+      "commands_executed": false
+    },
+    {
+      "title": "빅테크 현직자 웹 포폴 분석 자료(jay.pm.ai)",
+      "url": "https://docurise.io/lzen09/d/jay-pm-ai-1udo0qqx",
+      "reading": "Rendered cover, document title and continue-reading conditions only",
+      "full_body_read": false,
+      "reason": "Full document requires an email address and privacy consent; form was not submitted or bypassed",
+      "matches_ppt_skill_file_title": false
+    }
+  ],
+  "publication_scope": "Authored learning summaries, source links and licensed software; no full Notion text, third-party prompt or image corpus reproduction",
+  "not_executed": ["source installation commands", "global skill installation", "API generation", "Docurise form submission", "full pytest suite"]
+}

@@ -23,6 +23,8 @@
 | 스킬·플러그인·MCP 출처와 설치 범위 | [참고 카탈로그](references/) |
 | 새 공유자료의 확인 상태와 교육 활용 | [추가 자료 검토 목록](references/shared-materials-2026-10-08.md) |
 | 대화를 프로젝트·프롬프트·사례·실습으로 정리 | [대화→교육 에셋 워크플로우](workflows/conversation-to-assets/README.md) |
+| 링크 원문을 직접 읽은 내용과 정정 | [원문 읽기 기록](references/source-reading/README.md) |
+| 재사용할 공개 스킬·코드와 지원 파일 | [소스 묶음](vendor/README.md) |
 
 HTML은 GitHub 파일 화면에서 실행되지 않습니다. 저장소 상단 Code → Download ZIP으로 받은 뒤 압축을 풀고 해당 HTML을 브라우저에서 여세요. 로컬 서버가 필요한 예제는 개별 README의 명령을 따릅니다. JSON·Markdown·코드는 GitHub에서도 읽을 수 있습니다.
 

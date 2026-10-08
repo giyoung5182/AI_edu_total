@@ -1,0 +1,62 @@
+{
+  "repository": "freestylefly/awesome-gpt-image-2",
+  "ref": "65a9c57a1968a13f2f1997c58409cac9aa146bc7",
+  "checked_date": "2026-10-08",
+  "license": "MIT",
+  "license_file": "upstream/LICENSE",
+  "source_to_output": [
+    {
+      "source_path": "LICENSE",
+      "output_path": "upstream/LICENSE",
+      "git_blob_sha1": "5470a1c5d15a236acdd32d4fa1c489b3bd1b160d",
+      "sha256": "27a75c48bac29eb78f43c19f75c4e175974c8f1046d848d5562eae1ead2f1176",
+      "bytes": 1069,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "agents/skills/gpt-image-2-style-library/SKILL.md",
+      "output_path": "upstream/agents/skills/gpt-image-2-style-library/SKILL.md",
+      "git_blob_sha1": "4186ace84e7676e939d2f4b351be9b1149a272f8",
+      "sha256": "98519a3bfd28c5ab5630771a536f18fbe3627123cd7dd7a8801fa5da166a60f9",
+      "bytes": 2433,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "agents/skills/gpt-image-2-style-library/agents/openai.yaml",
+      "output_path": "upstream/agents/skills/gpt-image-2-style-library/agents/openai.yaml",
+      "git_blob_sha1": "cf1e45d1dd5fe449f912b5ec0110a7aca8ca0f30",
+      "sha256": "936761c14357498549796a193cd9243d4366b0a9db39c83492d85dba15abeae3",
+      "bytes": 211,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "agents/skills/gpt-image-2-style-library/bin/install.mjs",
+      "output_path": "upstream/agents/skills/gpt-image-2-style-library/bin/install.mjs",
+      "git_blob_sha1": "d53abffc0ae35830d29f6cd40589612019e2e179",
+      "sha256": "e5545dde2d9578b5b04d167e87848a88578f20793dde37ebdc88ec493db137b2",
+      "bytes": 2741,
+      "source_mode": "100755"
+    },
+    {
+      "source_path": "agents/skills/gpt-image-2-style-library/package.json",
+      "output_path": "upstream/agents/skills/gpt-image-2-style-library/package.json",
+      "git_blob_sha1": "9699238ef44fb886f0a3205d1c182c05330d0fc1",
+      "sha256": "daaab32f2bbe8741e5aebd9a99d1848f94b17a4ff9228cb08c69a97d14085bf8",
+      "bytes": 940,
+      "source_mode": "100644"
+    }
+  ],
+  "excluded_count": 721,
+  "runtime_executed": false,
+  "global_installed": false,
+  "exclusions_note": "See README; unavailable references/images are intentionally omitted and original links were not rewritten.",
+  "explicit_exclusions": [
+    "agents/skills/gpt-image-2-style-library/references/style-library.md",
+    "agents/skills/gpt-image-2-style-library/assets/city-life-system-map.png",
+    "docs/templates.md",
+    "data/style-library.json",
+    "data/cases.json",
+    "data/images",
+    "website/services/payments"
+  ]
+}

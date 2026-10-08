@@ -1,0 +1,255 @@
+{
+  "repository": "browser-use/jev-ultrafast",
+  "url": "https://github.com/browser-use/jev-ultrafast",
+  "ref": "1231850a0bf1a0c0341fe408ef1668dbbfdfac46",
+  "checked_on": "2026-10-08",
+  "license": "MIT",
+  "files": [
+    {
+      "path": "upstream/.env.example",
+      "bytes": 254,
+      "git_blob_sha1": "ea68998bd6162f3561b6eb3cb742ec303318a732",
+      "sha256": "df3ff253404a8c8aa2e8ac5e6bac5eba91ffb3393e971cef1e4a7b199cf42b73"
+    },
+    {
+      "path": "upstream/.gitignore",
+      "bytes": 93,
+      "git_blob_sha1": "784c56e6265e1cc453816b5854b86498a20e72dc",
+      "sha256": "ed55af1db6fcfa886e8e814a2e743d293d7cbc544c89dc172a68529428b9bc9f"
+    },
+    {
+      "path": "upstream/AGENTS.md",
+      "bytes": 1176,
+      "git_blob_sha1": "6e72c81e08a2261567fd7192b49186dbb1212f71",
+      "sha256": "b1897c362a3a695404d260f9c665d5f7ac1aa59754193a044636807c1b712fc5"
+    },
+    {
+      "path": "upstream/LICENSE",
+      "bytes": 1068,
+      "git_blob_sha1": "271d8e2807d0d79aee85a231f5c9dbb007902783",
+      "sha256": "5afa3d97bf1e6f998d587fa101e3fe0d0c416840b7fe77bcd6ae97690a334631"
+    },
+    {
+      "path": "upstream/README.md",
+      "bytes": 8650,
+      "git_blob_sha1": "fa7d079f9192f8ad47d4016c0d534cfe72207f33",
+      "sha256": "29f5276b3e6295cabe322cda598e354a9e053dbfd9d831d20f09d0cca279a379"
+    },
+    {
+      "path": "upstream/docs/banner.svg",
+      "bytes": 1871,
+      "git_blob_sha1": "b914e498ca95e49c6791aa8d421686d56a5389b9",
+      "sha256": "6fa40d6b2265ad6af671350411ed5ef314308d2d199c982d4afed91b9f9d0c6c"
+    },
+    {
+      "path": "upstream/docs/demo.gif",
+      "bytes": 1136520,
+      "git_blob_sha1": "3bb7ace6309c3124c1b92f0de9fad2adb22f3b79",
+      "sha256": "3ba041d1c574f62a0f986df9bc4f7594bbd0cfb372694aaeff802cffe012f96a"
+    },
+    {
+      "path": "upstream/docs/demo.mp4",
+      "bytes": 420571,
+      "git_blob_sha1": "c82feb752d197f934cb405cb03d58b173c839b43",
+      "sha256": "dcc8b24fd0db56bd0b5a50b9d88623501e12a12d49a44e3a67fa4362d559d27c"
+    },
+    {
+      "path": "upstream/docs/design.md",
+      "bytes": 4772,
+      "git_blob_sha1": "52f93a5c3dbc03df194f71308ee5c34f19dbdff5",
+      "sha256": "980a31f80e6df75307058707e2cc43d5190a7418492f2d7ee1a639edd48fb185"
+    },
+    {
+      "path": "upstream/docs/flights-measurement.json",
+      "bytes": 6950,
+      "git_blob_sha1": "0315d4acf56556320b2d199d6955034c416bb00e",
+      "sha256": "ee28bcd9a232f43e6d6c819dd6bb0ba834d5ec60419fce86ba43d8368d0aa5de"
+    },
+    {
+      "path": "upstream/docs/flights-prepared-measurement.json",
+      "bytes": 5559,
+      "git_blob_sha1": "1da855faa831608736c80f1991055e12ea841b49",
+      "sha256": "7ec9a13ea146fefa6c1b1d0ea518ef06366ca1cadef87c97312aff417f246e11"
+    },
+    {
+      "path": "upstream/docs/flights-result.png",
+      "bytes": 333134,
+      "git_blob_sha1": "53af3f59ae85c69e1fa650f5ca789430533e3182",
+      "sha256": "25898fdc4d4e4ccf4b7ac6e9ef0f86e469b445181dfee9a83b6725e6f32b90fa"
+    },
+    {
+      "path": "upstream/docs/full-speed-measurement.json",
+      "bytes": 31411,
+      "git_blob_sha1": "d491488a00cf3875b5dad40dd10f33423ed75ce9",
+      "sha256": "110548bae432c2edc38d24d6c05597639a68b73fede42716ae3e18af62ee8974"
+    },
+    {
+      "path": "upstream/docs/inspector.png",
+      "bytes": 418022,
+      "git_blob_sha1": "f8f593d5dbbaef6c17d07629b74fe04cd2823e08",
+      "sha256": "8bc3c8783478511fe2f631399a47f3e9f10593781224c571bcbb90825148a081"
+    },
+    {
+      "path": "upstream/docs/launch-draft.md",
+      "bytes": 686,
+      "git_blob_sha1": "875483d851a52dab50cf4d55f772064ed8c3514a",
+      "sha256": "7c92b4a1390c6858c38b067a8d6043ba7927148855885f46898649f9aa6bb75d"
+    },
+    {
+      "path": "upstream/docs/measurement.json",
+      "bytes": 2943,
+      "git_blob_sha1": "4a0cad585eaaaaa65fa2a573efe07a1da1dc6919",
+      "sha256": "5430a00ce81febc01ae2fecc56bbf0fa25f649a4523f28e6f55246daecd57ccb"
+    },
+    {
+      "path": "upstream/docs/performance-prepared.md",
+      "bytes": 3204,
+      "git_blob_sha1": "378c7f741d969e91562f07d005a26f7e3eb2bcdd",
+      "sha256": "a19c2a350fe3b5f3bf43bd8fa990aad7708c05a20b2f9d09b5dd92e5189cd1e2"
+    },
+    {
+      "path": "upstream/docs/performance.md",
+      "bytes": 6701,
+      "git_blob_sha1": "43f31cc5832054d59b0573e79b1be5a3023fdc31",
+      "sha256": "266a6d6203bd834de8dddfb8f23968d7d9d6bf7fec1655c34c1ddaccdd857d15"
+    },
+    {
+      "path": "upstream/examples/flights.py",
+      "bytes": 2748,
+      "git_blob_sha1": "70376e19b5a75b08bba6192ec79bb2841c399076",
+      "sha256": "a58322ac24c99985af6eec76deb4bbb6a84c9c6571aded327bc02ba7463a661c"
+    },
+    {
+      "path": "upstream/examples/run.py",
+      "bytes": 552,
+      "git_blob_sha1": "054a5268cdaf7ea3df460ab5e2d9c4d748535a81",
+      "sha256": "3710883749a19c820626eb29d86b4686417a6741ba2e6292bb772851f96bc98c"
+    },
+    {
+      "path": "upstream/jev_ultrafast/__init__.py",
+      "bytes": 146,
+      "git_blob_sha1": "a06771cf42cc0074eb87fdc635384cad6ef580fe",
+      "sha256": "60f025b8d24465e2c0f7a3547d43b8020fd8843de7b6cb3f892ef63f5548cf63"
+    },
+    {
+      "path": "upstream/jev_ultrafast/agent.py",
+      "bytes": 7880,
+      "git_blob_sha1": "726d880bd95ca946106220a44c05a488a4f1da82",
+      "sha256": "aaf8b271cb0ee6643fe7beb525328ab80de8568c7ac044d02b9c6721161e7c8b"
+    },
+    {
+      "path": "upstream/jev_ultrafast/browser.py",
+      "bytes": 9266,
+      "git_blob_sha1": "38e3aced572de1da2959c86b6240a6e4b13f05c4",
+      "sha256": "ee08dafa93d731bd292aa0263a578a29c8001cf22eef3c59fe44a159649155ee"
+    },
+    {
+      "path": "upstream/jev_ultrafast/demo.py",
+      "bytes": 5062,
+      "git_blob_sha1": "98715264550d87b53297906fc7a923e0b1cdda63",
+      "sha256": "a0cfb10909b370efb284cbbe16bdb4b7e7e06ba6385827404169027645a1d8a4"
+    },
+    {
+      "path": "upstream/jev_ultrafast/model.py",
+      "bytes": 8469,
+      "git_blob_sha1": "d31174749e1451dbbd2a05f255f6f87fe296b122",
+      "sha256": "a85ada8458d23642c5c8a4095acf0565e6268f81dcda26f6308942b653e9c9f3"
+    },
+    {
+      "path": "upstream/jev_ultrafast/questions.py",
+      "bytes": 2048,
+      "git_blob_sha1": "649e2dbc52fc31832c60d38419d1d34366846922",
+      "sha256": "66a7054b85040b949e1757311257ea0c5a843c635f9a40c99f6d15ad660fb422"
+    },
+    {
+      "path": "upstream/jev_ultrafast/snapshot.js",
+      "bytes": 6490,
+      "git_blob_sha1": "cf748375d1b824e0444429018003dc2829dfa408",
+      "sha256": "e50473501c8fb8e70f3b21866d987393e3f2315c639d638bd477d170e81ed78d"
+    },
+    {
+      "path": "upstream/jev_ultrafast/static/app.js",
+      "bytes": 9227,
+      "git_blob_sha1": "5f038cbc0906d9aecdc60a163d67576fd4fda7f6",
+      "sha256": "711e1cb2df44fff17e79bc9344d3e2aab1111107c6d169ec06b6a0d416fac9fb"
+    },
+    {
+      "path": "upstream/jev_ultrafast/static/fixture.html",
+      "bytes": 16059,
+      "git_blob_sha1": "7deb191bdc51991041cf727c95a8cebf7e96ed2a",
+      "sha256": "e48e7d7b6225b215060692e0a28c3d0b59e465e4b94c1bc510d5f37ff0b8bfbe"
+    },
+    {
+      "path": "upstream/jev_ultrafast/static/index.html",
+      "bytes": 5806,
+      "git_blob_sha1": "9edbf6f8d4434720d6008cf3a86de4a911671d6e",
+      "sha256": "a03afe6f51df1c844225f976488dd4b5ae6c9985d1f4f8aa26392013cb3b6cf6"
+    },
+    {
+      "path": "upstream/jev_ultrafast/static/style.css",
+      "bytes": 12312,
+      "git_blob_sha1": "531b45b1b53ffe520126e7347ad7d6f9f256abf3",
+      "sha256": "cde13f05006719cf01d881a54ccedd6c25326122badaee0c68f78656a36f9e8d"
+    },
+    {
+      "path": "upstream/pyproject.toml",
+      "bytes": 581,
+      "git_blob_sha1": "8cf2cbfa2d8ceabcc9cdfd7847d313e226394742",
+      "sha256": "3afd9e12c2c1c1efb32231669cd2d415b16c098cc057e91fc05844f4ab6c19e2"
+    },
+    {
+      "path": "upstream/scripts/check_guards.py",
+      "bytes": 7624,
+      "git_blob_sha1": "a9da23b998879f2875fac9ac039f00be998735b6",
+      "sha256": "adbc0c76cfaa30d89d0e9117c6246f22b0bbc090a5c96514e8c62d4a02d1ed1c"
+    },
+    {
+      "path": "upstream/scripts/measure_flights.py",
+      "bytes": 2542,
+      "git_blob_sha1": "0f400158e2456c6c761f5d1f9e81f5004a391535",
+      "sha256": "7e129e2f04666ae0f219f1af67f7a1bdc8e3e95c076585ae745ef1606e2c14ae"
+    },
+    {
+      "path": "upstream/scripts/record_flights.py",
+      "bytes": 2991,
+      "git_blob_sha1": "2a8c5de096a766aec6be9e30c2daf89aacb116d7",
+      "sha256": "f679e39cc5889a0f08a5a3ad2995bd5a18583101e66c8c94c126f14f25b0da25"
+    },
+    {
+      "path": "upstream/scripts/render_demo.py",
+      "bytes": 5663,
+      "git_blob_sha1": "463de11670736d5cbda0bfe9ea19054c449a40b1",
+      "sha256": "9730de48dd0d2406bcd85b3aa58e50fe087aa8a7f5b9c20381a086eb454f82a8"
+    },
+    {
+      "path": "upstream/scripts/render_fixture.py",
+      "bytes": 2141,
+      "git_blob_sha1": "41f0887fe5ba495363c8cc2d767021722d35ab5c",
+      "sha256": "a620580bd02c5fe94816010e10f3be6826ce56ed6ffffbef4bf874e17843dae2"
+    },
+    {
+      "path": "upstream/scripts/smoke.py",
+      "bytes": 2264,
+      "git_blob_sha1": "83081e730a5e5a4c6f98cef6ce951f1b5e3cfa66",
+      "sha256": "62294200921b4007b1e4ac18837d850c9ed3b92d4ad4810061a9314571f9b82d"
+    },
+    {
+      "path": "upstream/tests/test_agent.py",
+      "bytes": 12352,
+      "git_blob_sha1": "41fc39097ce2bf9f50f979576b692ead7bfabc36",
+      "sha256": "3f1e4e45077e8d2a8933f21e5c3fc7eeb3382125157d39a2a794faf3a6108ad5"
+    },
+    {
+      "path": "upstream/uv.lock",
+      "bytes": 48798,
+      "git_blob_sha1": "3b2f12b4974ef9764a1844423e89c4ea7cdfc636",
+      "sha256": "d3a617f725f84c48ef3661f2d7a561b7ddc311772ecd16accbd04c591f964b29"
+    }
+  ],
+  "excluded": [
+    ".git",
+    "credentials, local caches and untracked files"
+  ],
+  "source_changes": "none; original git-tracked files preserved byte-for-byte",
+  "execution": "source/code inspection only; dependencies, APIs and browser agent not executed"
+}

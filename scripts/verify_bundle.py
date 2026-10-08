@@ -12,7 +12,12 @@ class Links(HTMLParser):
    for key in ('href','src'):
     if d.get(key):self.links.append(d[key])
 def main():
- errors=[];counts={'files':0,'json':0,'python':0,'static_local_links':0}
+ errors=[];declared_source_links=[];excluded_paths=set();counts={'files':0,'json':0,'python':0,'static_local_links':0}
+ # Source archives may intentionally omit assets whose redistribution rights differ.
+ for manifest in (ROOT/'vendor').glob('*/source-manifest.json'):
+  data=json.loads(manifest.read_text(encoding='utf-8'))
+  for path in data.get('explicit_exclusions',[]):
+   excluded_paths.add((manifest.parent/'upstream'/path).resolve())
  for p in sorted(ROOT.rglob('*')):
   if not p.is_file() or any(x in {'.git','__pycache__','node_modules','test-output'} for x in p.relative_to(ROOT).parts):continue
   counts['files']+=1;ext=p.suffix.lower()
@@ -34,8 +39,12 @@ def main():
    path=unquote(parsed.path.strip('<>'))
    if not path:continue
    counts['static_local_links']+=1
-   if not (p.parent/path).exists():errors.append({'file':str(p.relative_to(ROOT)),'error':'missing local link','target':path})
- result={'scope':'UTF-8, JSON, Python syntax, static local file links only','counts':counts,'errors':errors,'ok':not errors}
+   target=(p.parent/path).resolve()
+   if not target.exists():
+    item={'file':str(p.relative_to(ROOT)),'error':'missing local link','target':path}
+    if target in excluded_paths:declared_source_links.append(item)
+    else:errors.append(item)
+ result={'scope':'UTF-8, JSON, Python syntax, static local file links; source-manifest exclusions reported separately','counts':counts,'declared_excluded_source_links':declared_source_links,'errors':errors,'ok':not errors}
  print(json.dumps(result,ensure_ascii=False,indent=2))
  return 0 if not errors else 1
 if __name__=='__main__':raise SystemExit(main())

@@ -1,0 +1,1268 @@
+{
+  "repository": "epoko77-ai/im-not-ai",
+  "ref": "2f3d943d08056b612a92e12bfb72ea94dd2acd18",
+  "checked_date": "2026-10-08",
+  "license": "MIT",
+  "license_file": "upstream/LICENSE",
+  "source_to_output": [
+    {
+      "source_path": ".claude-plugin/marketplace.json",
+      "output_path": "upstream/.claude-plugin/marketplace.json",
+      "git_blob_sha1": "b88cbbba3e4498a47cf021897f23d1d72cde2114",
+      "sha256": "4b7e1668632e38ad67344bb3d534f48024831ec89d19397fd5282b312ac65239",
+      "bytes": 629,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": ".claude-plugin/plugin.json",
+      "output_path": "upstream/.claude-plugin/plugin.json",
+      "git_blob_sha1": "6e567969978801f9bd5f9e77605d1e606a46543c",
+      "sha256": "779a6455d8fcc0bce7058743188c0fb04d643fb434fa9c1a1c823af6d0805f27",
+      "bytes": 560,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": ".githooks/commit-msg",
+      "output_path": "upstream/.githooks/commit-msg",
+      "git_blob_sha1": "1d4f3f4bc3c46441355e7003f73f7ef8a35b66ed",
+      "sha256": "96a40a35847db01cd04d6f816928ab90ab5d355a7e693d3a834eecaa60bf43a8",
+      "bytes": 458,
+      "source_mode": "100755"
+    },
+    {
+      "source_path": ".github/workflows/test.yml",
+      "output_path": "upstream/.github/workflows/test.yml",
+      "git_blob_sha1": "cab601be5b547d1127815b3d85c255791de51b2d",
+      "sha256": "84423b69c06dcba7091ba3b15d946cf3717ccdbb644464638e32fbc7c842a899",
+      "bytes": 1662,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": ".gitignore",
+      "output_path": "upstream/.gitignore",
+      "git_blob_sha1": "1941d616d141a889adb722129905702dbec8039f",
+      "sha256": "3a56014cf59f3bbaa9c8ba9fab85f94ef651a9f9da347f605536f779b5cb51a4",
+      "bytes": 283,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "CLAUDE.md",
+      "output_path": "upstream/CLAUDE.md",
+      "git_blob_sha1": "5a6b8137557e34c8fecba53a608267737e737b6f",
+      "sha256": "6162a53140d8ae110bb7b86fa5195df7693e5a99249eb20924a9edb4a476de0d",
+      "bytes": 18345,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "CONTRIBUTORS.md",
+      "output_path": "upstream/CONTRIBUTORS.md",
+      "git_blob_sha1": "6e40318bd6bfddc75db30cf5f520cd80604e376f",
+      "sha256": "38ad6a5f823578ba35cf0ba91f2c3146e857ddf8fcb60736249615a8fbf92004",
+      "bytes": 40205,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "GEMINI.md",
+      "output_path": "upstream/GEMINI.md",
+      "git_blob_sha1": "ab455cc30646679a7dbb86c86137b7b23d9d6e31",
+      "sha256": "8e5ec59cb3ed239ff43ca8812409d135927c4f9279503988dcbfe52b63604d7e",
+      "bytes": 9495,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "INSTALL.md",
+      "output_path": "upstream/INSTALL.md",
+      "git_blob_sha1": "73da287d27fe68ba8663f61c1721504a4980bc0e",
+      "sha256": "2695d557d7f77659d46f6a274fa9bea0e5c11f38372ceca2f22c287f96f4f382",
+      "bytes": 10609,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "LICENSE",
+      "output_path": "upstream/LICENSE",
+      "git_blob_sha1": "035888fab55c5418b718575a1bdde0da7a2ff306",
+      "sha256": "4cc7e8c439fe42f09d98457599c129ea6df9e5d0e622750d75952b441a38343f",
+      "bytes": 1067,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "README.en.md",
+      "output_path": "upstream/README.en.md",
+      "git_blob_sha1": "f722e5f744bdc64b41cc2f859cca69aac39740db",
+      "sha256": "fadbc59dadf0e1651d9dc0910c0d32e5a2cb37bde3d7871a55b37e4c36f2102c",
+      "bytes": 7180,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "README.md",
+      "output_path": "upstream/README.md",
+      "git_blob_sha1": "d9703014a73cc534eaf7cb91d41da58fa3097eb9",
+      "sha256": "baf97eb183f5e7d0e9598a9602b356247d8e8d5f5fce3201ad6725e9fd17feb5",
+      "bytes": 64521,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "RELEASING.md",
+      "output_path": "upstream/RELEASING.md",
+      "git_blob_sha1": "2e985491f846799c9f4c66d0ae60fbb3d8f5112e",
+      "sha256": "15ea5894afc54715d478c0c5f7e98f7bfecf3e6c81b011cd427619bca86aff72",
+      "bytes": 6702,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "agents/humanize-diagnostician.md",
+      "output_path": "upstream/agents/humanize-diagnostician.md",
+      "git_blob_sha1": "106f1458f9148ae696e3f63cd2d6cc4788628eab",
+      "sha256": "b67cd234247ec8f9cdb3400d02e8aef575859300eef1b30fa4debf52f6dc0c39",
+      "bytes": 6736,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "agents/humanize-finalizer.md",
+      "output_path": "upstream/agents/humanize-finalizer.md",
+      "git_blob_sha1": "5dc0834fc05809984f2303d329a4edd6b802884c",
+      "sha256": "8cdbecf084f351461059a20404fdf660de79f4e0f565aabbd44a5d23cd0bf7ce",
+      "bytes": 6707,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "agents/humanize-monolith.md",
+      "output_path": "upstream/agents/humanize-monolith.md",
+      "git_blob_sha1": "285d72e797c5ccdeaedefc7f204634008d91f73b",
+      "sha256": "e5c0b80b35a31904954fdea026734a18e6808081de5c0d66bfa9669e3c65eb4f",
+      "bytes": 10868,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "agents/korean-ai-tell-taxonomist.md",
+      "output_path": "upstream/agents/korean-ai-tell-taxonomist.md",
+      "git_blob_sha1": "0d062b416344e666d391c042cd393add289af62f",
+      "sha256": "978be4c6a23f943e958e2556e7e005d8f73a20e1064ecb81384926aaadd48652",
+      "bytes": 4612,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "agents/korean-translation-scholar.md",
+      "output_path": "upstream/agents/korean-translation-scholar.md",
+      "git_blob_sha1": "b86091374b878098f70cc3effc44aa8716523ab0",
+      "sha256": "ea2dbcf95f08f1fed73942b3ca61136ebb47c970e97dbcb7ba7894903412a9da",
+      "bytes": 6194,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "agents/post-editese-metric-engineer.md",
+      "output_path": "upstream/agents/post-editese-metric-engineer.md",
+      "git_blob_sha1": "5f733b468b8d48969c71eb4ad3afffaf1a000bcc",
+      "sha256": "06e70ec16b89ff6b12dc7a6cf29cafa75235794c3ce3a81fb878704cf7052f1e",
+      "bytes": 6066,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "agents/quick-rules-integrator.md",
+      "output_path": "upstream/agents/quick-rules-integrator.md",
+      "git_blob_sha1": "6ffadded4502866ef7c2d19a837103fda765c2d2",
+      "sha256": "0fb2b7224e6150fe05b719666274222ffd7af0bb4c59d0d7b0d3be36c4c0f34a",
+      "bytes": 6367,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "agents/taxonomy-gap-analyzer.md",
+      "output_path": "upstream/agents/taxonomy-gap-analyzer.md",
+      "git_blob_sha1": "554636e371752483ba3b9345201d6565c712d2fb",
+      "sha256": "0f034e418b148049a32949726fccde747d0244b31407c64d487f848ed7a69ee0",
+      "bytes": 4320,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "agents/translationese-research-distiller.md",
+      "output_path": "upstream/agents/translationese-research-distiller.md",
+      "git_blob_sha1": "3aeab767437427c57b186dc081898698fdcd257c",
+      "sha256": "41498658b18fb5e8aed43e1cb77e648e0731b05267fafcbb3b19d84ee28b71b8",
+      "bytes": 4946,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "codex/skills/humanize-korean/SKILL.md",
+      "output_path": "upstream/codex/skills/humanize-korean/SKILL.md",
+      "git_blob_sha1": "553dd8efcfd4e6a7e4a356d49b391972d81479b8",
+      "sha256": "bd3494baca18a1a911372a257a6c993b169b4b0bc51ec589f3a24912770caeab",
+      "bytes": 8444,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "codex/skills/humanize-korean/agents/openai.yaml",
+      "output_path": "upstream/codex/skills/humanize-korean/agents/openai.yaml",
+      "git_blob_sha1": "6399bef9b9431c853c7c34f9d36abfcc33831961",
+      "sha256": "1af1a6a40a9f0f28f1447f3897fee425c63b59bd0244854e4ac1c158af37d1f6",
+      "bytes": 277,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "codex/skills/humanize-korean/references",
+      "output_path": "upstream/codex/skills/humanize-korean/references",
+      "git_blob_sha1": "3c2b0a0fee4bfacaaa4806fb326b26b600be2405",
+      "sha256": "267da993c26e16e4a472d78a97ff0aa3aa6c3d4d460657b92b247778bfe6311d",
+      "bytes": 42,
+      "source_mode": "120000"
+    },
+    {
+      "source_path": "codex/skills/humanize-korean/scripts/prepare_monolith_input.py",
+      "output_path": "upstream/codex/skills/humanize-korean/scripts/prepare_monolith_input.py",
+      "git_blob_sha1": "4505889719cadccdb60c133bf8fe88738a65ab9d",
+      "sha256": "f28c2a83dc7b22f5510fa7fbefa74ffc35cf8b5de4bfebda453c30e6a2ef6d29",
+      "bytes": 248,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "codex/skills/humanize-korean/scripts/reassemble_chunks.py",
+      "output_path": "upstream/codex/skills/humanize-korean/scripts/reassemble_chunks.py",
+      "git_blob_sha1": "4505889719cadccdb60c133bf8fe88738a65ab9d",
+      "sha256": "f28c2a83dc7b22f5510fa7fbefa74ffc35cf8b5de4bfebda453c30e6a2ef6d29",
+      "bytes": 248,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "codex/skills/humanize-korean/scripts/verify_change_rate.py",
+      "output_path": "upstream/codex/skills/humanize-korean/scripts/verify_change_rate.py",
+      "git_blob_sha1": "4505889719cadccdb60c133bf8fe88738a65ab9d",
+      "sha256": "f28c2a83dc7b22f5510fa7fbefa74ffc35cf8b5de4bfebda453c30e6a2ef6d29",
+      "bytes": 248,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "codex/skills/humanize-korean/scripts/verify_gates.py",
+      "output_path": "upstream/codex/skills/humanize-korean/scripts/verify_gates.py",
+      "git_blob_sha1": "4505889719cadccdb60c133bf8fe88738a65ab9d",
+      "sha256": "f28c2a83dc7b22f5510fa7fbefa74ffc35cf8b5de4bfebda453c30e6a2ef6d29",
+      "bytes": 248,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "commands/humanize-korean.toml",
+      "output_path": "upstream/commands/humanize-korean.toml",
+      "git_blob_sha1": "a51fa6e8460aa880ea568a8c90a559fc5021b1cc",
+      "sha256": "3c14a50a058b526ac64833a7e8329cbf07a628361aeda03ac55c4a2098115ba3",
+      "bytes": 989,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "commands/humanize-redo.toml",
+      "output_path": "upstream/commands/humanize-redo.toml",
+      "git_blob_sha1": "6cf6a1f3d392512ac9828dd6d36f53852b41034c",
+      "sha256": "36ff33893f4fbf4b242576d890559fbd710fa26eceecccf0c864655460146847",
+      "bytes": 1003,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "commands/humanize-scan.toml",
+      "output_path": "upstream/commands/humanize-scan.toml",
+      "git_blob_sha1": "9f3db3a6d75b6e55236d66cb3b8479a7449770ef",
+      "sha256": "b3b6997ef5f9ef39f0d8517f9cd675bc022239bba3c7fa85250500c5ac8aa126",
+      "bytes": 2506,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "commands/humanize.toml",
+      "output_path": "upstream/commands/humanize.toml",
+      "git_blob_sha1": "686d5f828572a6b2d206be5f58def4417ad33930",
+      "sha256": "a476f96f43f6fda866dcfa335c9313427e01eade8c98bbe5f7286e0c221050ec",
+      "bytes": 1043,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "copilot/skills/humanize-korean/SKILL.md",
+      "output_path": "upstream/copilot/skills/humanize-korean/SKILL.md",
+      "git_blob_sha1": "e13088477c168ce2509e39c00fabef1c8baa360b",
+      "sha256": "a297f06386be5e5f095caac2fa691ecc00a41d89ce1212e3002e0feded998e1e",
+      "bytes": 3614,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "docs/en/evidence.md",
+      "output_path": "upstream/docs/en/evidence.md",
+      "git_blob_sha1": "c1d37af2e44f6d7edd3f7720740c4c68df4bc18f",
+      "sha256": "72b83b9df28fba498f93da568431f8f113838e881e62a46f114228b587b36196",
+      "bytes": 8273,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "docs/en/integration.md",
+      "output_path": "upstream/docs/en/integration.md",
+      "git_blob_sha1": "00ed6b46f1366a02b7c3d435e16de93ddfdfc1f1",
+      "sha256": "0baa89669c07b0cc75bc6cc143d0aaf9344762d84cd30c82114d1178b3361f00",
+      "bytes": 7717,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "docs/en/quick-rules.en.md",
+      "output_path": "upstream/docs/en/quick-rules.en.md",
+      "git_blob_sha1": "f08c67c436627b512e519d7aa749a37e87ab98ef",
+      "sha256": "6d73c65bb767adf1ab7459798beedfc17453c6b028100e83aa2c36775ed3291e",
+      "bytes": 11338,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "docs/en/taxonomy.md",
+      "output_path": "upstream/docs/en/taxonomy.md",
+      "git_blob_sha1": "bdd9fba0489d149803aee49f03448d5d0e02813a",
+      "sha256": "48540c11aaeed164a6b3b95cce144ad9f73e9b5cfed50e9ed38d2908f44a64a8",
+      "bytes": 21906,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "docs/watermark-baseline-runbook.md",
+      "output_path": "upstream/docs/watermark-baseline-runbook.md",
+      "git_blob_sha1": "f7779ff4fbf83e1c4313d0592718b26906d43caf",
+      "sha256": "aa2ff9f09a43d3024720ed96554008a0f57724112219a0f088ad5c8091f0c2cd",
+      "bytes": 5749,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "extras/skills/commit-ko/SKILL.md",
+      "output_path": "upstream/extras/skills/commit-ko/SKILL.md",
+      "git_blob_sha1": "b7acf0c5a3777d50ade82a636902853d19bf4df7",
+      "sha256": "1d5ab962f2361fe1b1f378c977a99f93fbf738587500911ca4180fcfefa90d46",
+      "bytes": 3790,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "extras/skills/commit-ko/references/commit-lexicon.md",
+      "output_path": "upstream/extras/skills/commit-ko/references/commit-lexicon.md",
+      "git_blob_sha1": "e3f4fafe4ba9a8b97cf9fbee2d6425edb34ec9e1",
+      "sha256": "5db6ead62ebd490368ebcd838989e27f2b92506196742c1f8e630885f89299c1",
+      "bytes": 4945,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "gemini-extension.json",
+      "output_path": "upstream/gemini-extension.json",
+      "git_blob_sha1": "77fa947b3d4adc52f0e4677afc2e0ecd22aac0b2",
+      "sha256": "37f4526c5ef670da9aae80ae0fe2080f627a861a618af52b5befabe8cf484c39",
+      "bytes": 234,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "install.sh",
+      "output_path": "upstream/install.sh",
+      "git_blob_sha1": "96171cdaa02c900e7edbaf9dd5f5c2a948f6b50d",
+      "sha256": "b1679c96ee2844c540eaec30a526f51adfcf9cee53ecda0528a71e79f46b5068",
+      "bytes": 11818,
+      "source_mode": "100755"
+    },
+    {
+      "source_path": "plugin.json",
+      "output_path": "upstream/plugin.json",
+      "git_blob_sha1": "a817dddd7853d8c7a9d82bed6822ef264c25eb1b",
+      "sha256": "1d974813e8a6f7b64ade7766f7d61c2d41868d5def2ccc6d661b08db70fc6c31",
+      "bytes": 514,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "scripts/build_calibration.py",
+      "output_path": "upstream/scripts/build_calibration.py",
+      "git_blob_sha1": "b8041939053fd0fc7385f5f4c1c6797bbff836a7",
+      "sha256": "dcd6ac5b5191e3aeb46a878d4a55400d912510536248928ab6fda30a7de07947",
+      "bytes": 8853,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "scripts/build_diagnosis_rules.py",
+      "output_path": "upstream/scripts/build_diagnosis_rules.py",
+      "git_blob_sha1": "a86fd63550c59ac3e7d2b58318a436d5cf7ac5f0",
+      "sha256": "54a431c18abfb2bb3c690f7c39e4bcc28b038e83cbe12ccfbde9fab5205332da",
+      "bytes": 10798,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "scripts/build_quick_rules.py",
+      "output_path": "upstream/scripts/build_quick_rules.py",
+      "git_blob_sha1": "376223b71e5f1f2797840eedb57db8c381c2c269",
+      "sha256": "0c50ff818ad8c3b3717590c08df0bbf9c3baf4ed351e7f5e6bb96a51e06707c3",
+      "bytes": 11750,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "scripts/build_social_preview_v2.py",
+      "output_path": "upstream/scripts/build_social_preview_v2.py",
+      "git_blob_sha1": "6bb0ed17aff963f4762f4405403ecfa0c984c7ed",
+      "sha256": "4b8c7b71c163e81bcaf20a932491654a8e85733bc03d98ab3304b29c04803266",
+      "bytes": 6002,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "scripts/build_social_preview_v2_3.py",
+      "output_path": "upstream/scripts/build_social_preview_v2_3.py",
+      "git_blob_sha1": "b5588190b72ac833b948b041f356d99f9ceb71f6",
+      "sha256": "fb9ceb9d30ed5f48991b9df1a791be419c892a4223aa6639bba1c0f32dd9dd73",
+      "bytes": 4561,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "scripts/check_commit_lexicon_ids.py",
+      "output_path": "upstream/scripts/check_commit_lexicon_ids.py",
+      "git_blob_sha1": "39077b923c9e1317d47464020fd56d8caaf2805f",
+      "sha256": "d6b9816d825014d8f1c1e0c3251dbaeea805ddf0765033d1b4714e3442897d81",
+      "bytes": 4823,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "scripts/checks.py",
+      "output_path": "upstream/scripts/checks.py",
+      "git_blob_sha1": "a48f5843afc818bd8f61edf2ff539af97499b421",
+      "sha256": "ba51f5c392e00d94cd3549f9bb022d325d1cb504597e38cea187fb1357f08088",
+      "bytes": 20464,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "scripts/commit_msg_lint.py",
+      "output_path": "upstream/scripts/commit_msg_lint.py",
+      "git_blob_sha1": "56fed43f9a11041809230b585038785f56222131",
+      "sha256": "3409ee5cc14f4727426f686c85a06352e8fa4b393c615de151d25de7abd0cfbc",
+      "bytes": 6038,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "scripts/console.py",
+      "output_path": "upstream/scripts/console.py",
+      "git_blob_sha1": "d9914519cce6f9235093bb8a5d501fd5d38b133f",
+      "sha256": "88615f82f30262a1411ea61ab1ecd29c19b52a841d8fcdcc486c970ec4eb5336",
+      "bytes": 2378,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "scripts/corruption_engine.py",
+      "output_path": "upstream/scripts/corruption_engine.py",
+      "git_blob_sha1": "675d81d393f46d22f2fa754d466dfc2682266a39",
+      "sha256": "da05e24b76ecb96d6e0dc9ff1d857882e6850873e0a714dd17ebd6bbb0cb2ce9",
+      "bytes": 15980,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "scripts/eval_baseline.py",
+      "output_path": "upstream/scripts/eval_baseline.py",
+      "git_blob_sha1": "962f04a3f0b2dad2f7fae1a3af3bb0be7e5df09c",
+      "sha256": "dff14e78f75ad54e335defe0ace74bb90dee863fe0a0fd70280d20a1c711b84b",
+      "bytes": 12117,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "scripts/eval_compare.py",
+      "output_path": "upstream/scripts/eval_compare.py",
+      "git_blob_sha1": "3f8c58ca0111a3722d7cabf0c29d9bd0c839d243",
+      "sha256": "f55672372796f0679a8507cd008787f4e65c2d20c6da8a3b26c4b356914c5762",
+      "bytes": 7801,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "scripts/make_thumbnail.py",
+      "output_path": "upstream/scripts/make_thumbnail.py",
+      "git_blob_sha1": "9093953e9c76958cec2d72938943d14b2a9ec6e5",
+      "sha256": "22ea392cabff807012c6d678cafb87ef8637be94643240325283c8e9e5b5c5f1",
+      "bytes": 4609,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "scripts/prepare_monolith_input.py",
+      "output_path": "upstream/scripts/prepare_monolith_input.py",
+      "git_blob_sha1": "ecf40e35cd80705081dc9a9f03a34f57f33af43c",
+      "sha256": "c68c677c80707ea6aa8704d0b34fbec51c080e229d6e0ddf0b9ff8969e2bac8e",
+      "bytes": 44390,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "scripts/reassemble_chunks.py",
+      "output_path": "upstream/scripts/reassemble_chunks.py",
+      "git_blob_sha1": "6e32cc7816474b7fcfabfa575b42bf6a735ef85f",
+      "sha256": "03fafb4c92927344a1fd2b626fb90e16a6b3eaf53f0d1d7e5b6e31cf1773fb64",
+      "bytes": 6557,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "scripts/restore_modality.py",
+      "output_path": "upstream/scripts/restore_modality.py",
+      "git_blob_sha1": "8326863d1c0bf4b47bc3f66e7b1f0a3ce962ccbf",
+      "sha256": "2d164729c2580ff58a78d596c4506b3a24f314d4142d74f0f69f45ace0c8c939",
+      "bytes": 13251,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "scripts/sanitize_text.py",
+      "output_path": "upstream/scripts/sanitize_text.py",
+      "git_blob_sha1": "a3709363a27160f5712595389689f476b9ab474b",
+      "sha256": "5b7b93d6c5655db31bf489af835575aa12cf8149410d66f604186457ce78dabb",
+      "bytes": 11519,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "scripts/strip_injected_commas.py",
+      "output_path": "upstream/scripts/strip_injected_commas.py",
+      "git_blob_sha1": "1cbbd34a088df8803e981806b4b4f88722b93cbf",
+      "sha256": "52af7878a1fc361333f2c2f2a5f1b20b1a3b559d761afbfa1419de11177462cd",
+      "bytes": 5228,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "scripts/verify_change_rate.py",
+      "output_path": "upstream/scripts/verify_change_rate.py",
+      "git_blob_sha1": "487ba5e1d83648b61e25195cf2445787e8d4755e",
+      "sha256": "acf923666d2dd8304c3d74726779ba133eae7bcce8e586099467324947e610c1",
+      "bytes": 4245,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "scripts/verify_gates.py",
+      "output_path": "upstream/scripts/verify_gates.py",
+      "git_blob_sha1": "1fdd7408702aec1489b094f2209e2f1cd124e0e6",
+      "sha256": "003db6ebaaab05fd89cec1342ba9d2f36425df869f2a1f10cebbea07ba0a6f5e",
+      "bytes": 22860,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "skills/humanize-korean/SKILL.md",
+      "output_path": "upstream/skills/humanize-korean/SKILL.md",
+      "git_blob_sha1": "f0c5f318b323515816b0002ffd00d6e5901ccb54",
+      "sha256": "4b4d0e0e0a78e2da1dd77335731cf95fd529a7abd9fc919cefe88d69f83f5148",
+      "bytes": 30230,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "skills/humanize-korean/references/ai-tell-taxonomy.md",
+      "output_path": "upstream/skills/humanize-korean/references/ai-tell-taxonomy.md",
+      "git_blob_sha1": "16d89b4e68a97eece6226011a86c53f71d4f6918",
+      "sha256": "ab90c975f556afbf6824848435f8182c88075dc4571480db4e2cbb8e9042991c",
+      "bytes": 131070,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "skills/humanize-korean/references/baseline.json",
+      "output_path": "upstream/skills/humanize-korean/references/baseline.json",
+      "git_blob_sha1": "8565b1e5efc3c336d956851aad7e1aace1900e63",
+      "sha256": "6b64904daa27c3f759f39a664bf8e7e6c2ea1f9dcacd6d457e97b10f60f43dc5",
+      "bytes": 8680,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "skills/humanize-korean/references/baseline_v2.json",
+      "output_path": "upstream/skills/humanize-korean/references/baseline_v2.json",
+      "git_blob_sha1": "c9e4bd79fc07dc63c70a7ef5f3824502621f8a84",
+      "sha256": "b5f1725bd02fb4cc40eece68c5b8f1d7c7655775743196d8fd0bc5978f2ed916",
+      "bytes": 13487,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "skills/humanize-korean/references/design-notes.md",
+      "output_path": "upstream/skills/humanize-korean/references/design-notes.md",
+      "git_blob_sha1": "2128b646307a1ce8756ba2137a4316ed628d6797",
+      "sha256": "d24027121d28eefb3f7142b8bd7d81637e048c8050b52829238da09665056f5c",
+      "bytes": 5943,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "skills/humanize-korean/references/diagnosis-rules.md",
+      "output_path": "upstream/skills/humanize-korean/references/diagnosis-rules.md",
+      "git_blob_sha1": "91a6fcace5e7cc105ec1314c3bc3146a235b4864",
+      "sha256": "2fab3a611b1de5a09cbe1ca875a5637c439ac24b8edac06548617630aec4505a",
+      "bytes": 16352,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "skills/humanize-korean/references/empirical-validation.md",
+      "output_path": "upstream/skills/humanize-korean/references/empirical-validation.md",
+      "git_blob_sha1": "14e8221a8315eaee26090c9b300085f9ac7df0f0",
+      "sha256": "9c6c43a7de27b6ea6f3c3789e7c39e78009a2a1e93c891858f8d5942c7043216",
+      "bytes": 15004,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "skills/humanize-korean/references/metrics.py",
+      "output_path": "upstream/skills/humanize-korean/references/metrics.py",
+      "git_blob_sha1": "5cb00e404b84e2b17617f75f45951de2a2e3871f",
+      "sha256": "266800507fb67b97d9019b5f8a23a7566012b5582f06240971ae30b3a1541b17",
+      "bytes": 15808,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "skills/humanize-korean/references/metrics_v2.py",
+      "output_path": "upstream/skills/humanize-korean/references/metrics_v2.py",
+      "git_blob_sha1": "1a967957153163f60ff1d8bdb3c93457108cf7eb",
+      "sha256": "6e3ddb40e2789ab37e95ef0bd5974a8fbeb2678919c17ee9afe16e8ae66ca341",
+      "bytes": 34282,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "skills/humanize-korean/references/quick-rules.footer.md",
+      "output_path": "upstream/skills/humanize-korean/references/quick-rules.footer.md",
+      "git_blob_sha1": "31b9a934f982c316859ee9b5785dab1a8d7f256a",
+      "sha256": "a5468d492216c90b349bbe0c74926b6660ca28bd946b8d8c470d1ed8b419cbf3",
+      "bytes": 3008,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "skills/humanize-korean/references/quick-rules.header.md",
+      "output_path": "upstream/skills/humanize-korean/references/quick-rules.header.md",
+      "git_blob_sha1": "0444e6e71f207bac7fdabeda09981e0236e4111e",
+      "sha256": "7d52500806a7b5c014ed71bf7770ed3e743faf9d66be274f147360f2556c5ed4",
+      "bytes": 2290,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "skills/humanize-korean/references/quick-rules.md",
+      "output_path": "upstream/skills/humanize-korean/references/quick-rules.md",
+      "git_blob_sha1": "4fd3f6872720aefc151fe1294ebfad176b1abe94",
+      "sha256": "d666078f5ac351d6b934bffb3eb0f22e12d50b952df15c0d42000821fa7250b4",
+      "bytes": 15537,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "skills/humanize-korean/references/rewriting-playbook.md",
+      "output_path": "upstream/skills/humanize-korean/references/rewriting-playbook.md",
+      "git_blob_sha1": "120b0a7806c7de576fb381795a78dd96ce30d767",
+      "sha256": "e070d5ed259812cb939bf18d12bf2602aab635124d2244280229d2c7ba1b559f",
+      "bytes": 15848,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "skills/humanize-korean/references/roles/diagnostician.md",
+      "output_path": "upstream/skills/humanize-korean/references/roles/diagnostician.md",
+      "git_blob_sha1": "3361df0efde93ae5b78bcca576ab203f56a21f57",
+      "sha256": "befa064a7a6d1f350ffb6bbc4ffac333d4ad4e14ac834b026cccb94828f97a3b",
+      "bytes": 726,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "skills/humanize-korean/references/roles/finalizer.md",
+      "output_path": "upstream/skills/humanize-korean/references/roles/finalizer.md",
+      "git_blob_sha1": "8e0be2c0b07fb190b68c1ee992fd57c186317a53",
+      "sha256": "4eb684b62fce50d78b29bcb28f6a07c5e501398d0af03e1d2cb52b6dec1a02a3",
+      "bytes": 1209,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "skills/humanize-korean/references/roles/monolith.md",
+      "output_path": "upstream/skills/humanize-korean/references/roles/monolith.md",
+      "git_blob_sha1": "b037719c37a9091227118709f3ffcf9331809510",
+      "sha256": "a0a4979636066f24da68d0f70eadcdd7a6dbe23d4a9ccd6a4987ee83f1abe158",
+      "bytes": 808,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "skills/humanize-korean/references/scholarship.md",
+      "output_path": "upstream/skills/humanize-korean/references/scholarship.md",
+      "git_blob_sha1": "ff531157b9dd7e68433f1a57232f1d40009e0176",
+      "sha256": "e83346a5b0147a923b725295cbee6b7fa3b22020840b5eee95c35f615b182e64",
+      "bytes": 35541,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "skills/humanize-korean/references/taxonomy-candidates.md",
+      "output_path": "upstream/skills/humanize-korean/references/taxonomy-candidates.md",
+      "git_blob_sha1": "208c2b9b7382c409f2db02622dedf220bc749622",
+      "sha256": "7b959a5156cfac19d171206ee4d124afd9148eb840b05b38e9118b042f4fa9d8",
+      "bytes": 6359,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "skills/humanize-korean/references/web-service-spec.md",
+      "output_path": "upstream/skills/humanize-korean/references/web-service-spec.md",
+      "git_blob_sha1": "2eeea6d9b6124cf9c13827d9496ec7136aa24d4b",
+      "sha256": "be887c5e60b9a37e63a4aa8156ada0da4298098a51451925a3a22b9a37e25f6a",
+      "bytes": 8010,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "skills/humanize-redo/SKILL.md",
+      "output_path": "upstream/skills/humanize-redo/SKILL.md",
+      "git_blob_sha1": "03c6a2d222f3e1e82c377f0821e5ad34c96592b8",
+      "sha256": "df556584d3225cec290a294a0f746ded3b7b79fbf2ef8dc8186bb880fc10f2cc",
+      "bytes": 2013,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "skills/humanize-scan/SKILL.md",
+      "output_path": "upstream/skills/humanize-scan/SKILL.md",
+      "git_blob_sha1": "3ff49a34aad8d02071392151dcb3814f495e6890",
+      "sha256": "db46a7bf53ebf125a37ba15621a8c3d6623af6ba612dce6e90c12b01e954d957",
+      "bytes": 6205,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "skills/humanize/SKILL.md",
+      "output_path": "upstream/skills/humanize/SKILL.md",
+      "git_blob_sha1": "392981b11a90eb4716bb6f67b11c59463f17160b",
+      "sha256": "be786276eb870716ff1834c5043a992f773e3c607e229ea86490c40676bb933f",
+      "bytes": 1750,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "tests/README.md",
+      "output_path": "upstream/tests/README.md",
+      "git_blob_sha1": "c632ea7beae3b473bd263299fa27e60a715b55a0",
+      "sha256": "c206f877fb25f14e65c463a71f28c3f739bf64939264ea540c2ac70430a035c4",
+      "bytes": 3120,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "tests/baselines/2026-08-17-anchor-K8-after.json",
+      "output_path": "upstream/tests/baselines/2026-08-17-anchor-K8-after.json",
+      "git_blob_sha1": "b0d5b75da1b429bb9dabd120eca8e547ea1372c0",
+      "sha256": "3d5139ff347174b9fc90b49f1d34ae729964eeb899955b331a95a6edd4971889",
+      "bytes": 14641,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "tests/baselines/2026-08-17-anchor-K8-before.json",
+      "output_path": "upstream/tests/baselines/2026-08-17-anchor-K8-before.json",
+      "git_blob_sha1": "114533aa134b1ac7f3392a36e7dc95c1ab853540",
+      "sha256": "7fef726d8d3ffb94104b7f51920a97d10dc8a3fa65f8a01298220443ecfa0592",
+      "bytes": 14533,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "tests/baselines/2026-08-17-anchor-ledger-verify.json",
+      "output_path": "upstream/tests/baselines/2026-08-17-anchor-ledger-verify.json",
+      "git_blob_sha1": "861828ac82e05869bca423989efe6d9e61dba86d",
+      "sha256": "90cbd7b045905b6f7ee140b371809d3c5fde04654027492630d961d6545d6a70",
+      "bytes": 21552,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "tests/baselines/2026-08-17-pre-watermark.json",
+      "output_path": "upstream/tests/baselines/2026-08-17-pre-watermark.json",
+      "git_blob_sha1": "a3760a6010faa96d8a57937938b6e7ad066da1d9",
+      "sha256": "b669d663ca16e66f4d8523cbe63486bd3bd941fc50621060ff1c3e0e6faab50e",
+      "bytes": 64023,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "tests/baselines/2026-08-23-threshold-calibration.json",
+      "output_path": "upstream/tests/baselines/2026-08-23-threshold-calibration.json",
+      "git_blob_sha1": "3d9f53697fa5834c63098ac07bcc8dad29d69713",
+      "sha256": "9d279c0166aadee7598f44bfb0846d11fe251494fadf40feaf73f57de099d303",
+      "bytes": 8273,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "tests/baselines/2026-08-29-task-matched-calibration.json",
+      "output_path": "upstream/tests/baselines/2026-08-29-task-matched-calibration.json",
+      "git_blob_sha1": "81a0b3434f6004c0d2603e96bdc6d9d05290a9f1",
+      "sha256": "d37cdbe14536a415b545976095c725b0d84f7065c6fbac312108b982216af5e0",
+      "bytes": 18067,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "tests/baselines/2026-08-29-threshold-calibration.json",
+      "output_path": "upstream/tests/baselines/2026-08-29-threshold-calibration.json",
+      "git_blob_sha1": "aa14006b54c9e6c2884012eec2a2473c3ba62a68",
+      "sha256": "84a191574966f5a1e0e7499dd1cdc7f9bea235b32fffe00fab8250a8231b25d0",
+      "bytes": 21236,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "tests/fixtures.json",
+      "output_path": "upstream/tests/fixtures.json",
+      "git_blob_sha1": "896f3000736ee74cac600f9614c594706e1c42d5",
+      "sha256": "3e711c8909267a96febd1877cb30b4763fd5eec490189b4ee99c97059aed6dc3",
+      "bytes": 9585,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "tests/generate_fixtures.py",
+      "output_path": "upstream/tests/generate_fixtures.py",
+      "git_blob_sha1": "3b413b39c7457d8ae9c9330038fdd09b9c6a0931",
+      "sha256": "4270679a79123abdb0765d56ac6ed987d06155365a6cdca6b3c9756b747b4bad",
+      "bytes": 3085,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "tests/golden/README.md",
+      "output_path": "upstream/tests/golden/README.md",
+      "git_blob_sha1": "2bec07b86712e7db0494cc8080d9667bec57d159",
+      "sha256": "7814d461653c1e22c3999ed18a9dd29c5ef9d2e61a3a9e92cdbc406ffc809334",
+      "bytes": 4463,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "tests/golden/fixtures/01_register_downgrade/bad_output.txt",
+      "output_path": "upstream/tests/golden/fixtures/01_register_downgrade/bad_output.txt",
+      "git_blob_sha1": "30524e730772ec0e216e47b9e624ae764a40a4f6",
+      "sha256": "bbf0dd72d364ac6c7420d0835e0cffd340cfdcfe3199eb041412c03990955421",
+      "bytes": 614,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "tests/golden/fixtures/01_register_downgrade/expected_failures.json",
+      "output_path": "upstream/tests/golden/fixtures/01_register_downgrade/expected_failures.json",
+      "git_blob_sha1": "66b8940e12905e9196b37c96329e84affa44eb96",
+      "sha256": "adb8115aed73e2371f95a953eee63560c09882d68c0c2ec6ef818abc67f1b46d",
+      "bytes": 267,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "tests/golden/fixtures/01_register_downgrade/good_output.txt",
+      "output_path": "upstream/tests/golden/fixtures/01_register_downgrade/good_output.txt",
+      "git_blob_sha1": "0c9b8850e7fd80b0e3f26cba05b9c7727b9cdadc",
+      "sha256": "af30eb31c46c56b9827b500e6b8c618fd01b83b9286d13f8505167eae5333444",
+      "bytes": 459,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "tests/golden/fixtures/01_register_downgrade/input.txt",
+      "output_path": "upstream/tests/golden/fixtures/01_register_downgrade/input.txt",
+      "git_blob_sha1": "1d7b030ce20f953276f40c902f9dfa87c750601f",
+      "sha256": "96cc03aebf30b7c831cd8ed2d384af008c276699820b0f10212fc11f1cb06010",
+      "bytes": 481,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "tests/golden/fixtures/02_academic_structure/bad_output.txt",
+      "output_path": "upstream/tests/golden/fixtures/02_academic_structure/bad_output.txt",
+      "git_blob_sha1": "afff614264f1a096b2cc8b74ee8af06744eca74c",
+      "sha256": "1250a4e6366446283169fae77b26b7c702f835d2e947a1c4e71c290f59781be8",
+      "bytes": 1673,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "tests/golden/fixtures/02_academic_structure/expected_failures.json",
+      "output_path": "upstream/tests/golden/fixtures/02_academic_structure/expected_failures.json",
+      "git_blob_sha1": "c18a4e1470ec62d036f1d02a274f5cf7e8e4fcac",
+      "sha256": "ab1f2e8aef2bd8a55ff45da2d2385beae5e515435751a2efe520d365ee1933a4",
+      "bytes": 463,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "tests/golden/fixtures/02_academic_structure/good_output.txt",
+      "output_path": "upstream/tests/golden/fixtures/02_academic_structure/good_output.txt",
+      "git_blob_sha1": "c754a992326ac543eabde8fecfbb094c8e1794bb",
+      "sha256": "60b1125c8d4a0c60065ef3077dd061c3586e1b18b820b1b684103f0784b3f28f",
+      "bytes": 1712,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "tests/golden/fixtures/02_academic_structure/input.txt",
+      "output_path": "upstream/tests/golden/fixtures/02_academic_structure/input.txt",
+      "git_blob_sha1": "bfe4ff21a57b9b2655692225d2ec8f92cad47595",
+      "sha256": "ba2e0889d0372ebf533159a386740b1a07e6e6b621fe80b4126475b7e1810855",
+      "bytes": 1750,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "tests/golden_commit/README.md",
+      "output_path": "upstream/tests/golden_commit/README.md",
+      "git_blob_sha1": "873b73d7a0a721ff14addbed8a7c72c0f6636340",
+      "sha256": "e41f8ed62afbc673ac39d4e4db2f7ee3ea2b397d5553ec458ad5dc333e67184e",
+      "bytes": 4537,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "tests/golden_commit/commit_checks.py",
+      "output_path": "upstream/tests/golden_commit/commit_checks.py",
+      "git_blob_sha1": "b0ad84016ebe2103be95332a31d36703e9fe0b8e",
+      "sha256": "228280eaffa51bd3452e049fca3ccf077e0332bc217de0039f82bc2c23a100d5",
+      "bytes": 8850,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "tests/golden_commit/fixtures/01_prefix_altered/bad_output.txt",
+      "output_path": "upstream/tests/golden_commit/fixtures/01_prefix_altered/bad_output.txt",
+      "git_blob_sha1": "7e89832a0eb1a5942f66013703ba1104eaaed91c",
+      "sha256": "0437998ee5231db0acf78bd95e60576de667dba16626078b46ef248dc7a2b550",
+      "bytes": 50,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "tests/golden_commit/fixtures/01_prefix_altered/expected_failures.json",
+      "output_path": "upstream/tests/golden_commit/fixtures/01_prefix_altered/expected_failures.json",
+      "git_blob_sha1": "da726abcfa765c577575f55dede28aa9a17ed08f",
+      "sha256": "6928a7f5a3b409a756eb13ce32be1a587f50ad4f7d0a364295e210b8a468e140",
+      "bytes": 195,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "tests/golden_commit/fixtures/01_prefix_altered/good_output.txt",
+      "output_path": "upstream/tests/golden_commit/fixtures/01_prefix_altered/good_output.txt",
+      "git_blob_sha1": "536bab318077353d7075db7a783ad0014b789d49",
+      "sha256": "5a8cac0adc30ddd4b9a66c56b02303cff4782040e60a1176ba0a830dde3f5370",
+      "bytes": 56,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "tests/golden_commit/fixtures/01_prefix_altered/input.txt",
+      "output_path": "upstream/tests/golden_commit/fixtures/01_prefix_altered/input.txt",
+      "git_blob_sha1": "f5671f1285f6a3bc2c3b3498527ebe447459ff53",
+      "sha256": "c1d6d601b90674e96f7deb60dfbd16995fd7a23eab600fe591523e90349be44d",
+      "bytes": 62,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "tests/golden_commit/fixtures/02_trailer_and_token_altered/bad_output.txt",
+      "output_path": "upstream/tests/golden_commit/fixtures/02_trailer_and_token_altered/bad_output.txt",
+      "git_blob_sha1": "49960b11db3b196786709345c9a2a042b292fbec",
+      "sha256": "7cc266e217475dcb61d119a2d3029f502ecfed57b26cfecf9f27399e5755ed82",
+      "bytes": 275,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "tests/golden_commit/fixtures/02_trailer_and_token_altered/expected_failures.json",
+      "output_path": "upstream/tests/golden_commit/fixtures/02_trailer_and_token_altered/expected_failures.json",
+      "git_blob_sha1": "c5cb8ed3320401c3392e623a0e4e91047ddd0ae2",
+      "sha256": "9b2a7eb3c0bc2d9029c38c09ca8504f301ae036a5abf5f6197893c29fcf311ff",
+      "bytes": 301,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "tests/golden_commit/fixtures/02_trailer_and_token_altered/good_output.txt",
+      "output_path": "upstream/tests/golden_commit/fixtures/02_trailer_and_token_altered/good_output.txt",
+      "git_blob_sha1": "b5b9165ebf8a559ee0bddeb29d78a1ab4f469748",
+      "sha256": "65074d2f03c991005f26990e665592010a90754fab27ea2e5125abbfd41a2007",
+      "bytes": 335,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "tests/golden_commit/fixtures/02_trailer_and_token_altered/input.txt",
+      "output_path": "upstream/tests/golden_commit/fixtures/02_trailer_and_token_altered/input.txt",
+      "git_blob_sha1": "5573cd6265c4138bf3c04b9cecb8728f11616f4b",
+      "sha256": "d0e8e644263cc9d9fbf5a017b23f3b1b556c94fc42fa783cc75731ffbd1fac23",
+      "bytes": 350,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "tests/golden_commit/fixtures/03_register_escalation/bad_output.txt",
+      "output_path": "upstream/tests/golden_commit/fixtures/03_register_escalation/bad_output.txt",
+      "git_blob_sha1": "39c0d37d35d9134f1e9b437fee8b4823af5de8c7",
+      "sha256": "0d43f885a12c607fa5305636ec122eb7f0951850dbf22218a0094bf1ec299d46",
+      "bytes": 79,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "tests/golden_commit/fixtures/03_register_escalation/expected_failures.json",
+      "output_path": "upstream/tests/golden_commit/fixtures/03_register_escalation/expected_failures.json",
+      "git_blob_sha1": "ea8cb8e001d6c2d26ccb2453234ed4ff2d9f9551",
+      "sha256": "c8c9fcdf54cb79d0589bde4be31ddc96a0ec3f779ad996cdcc7b7f8cb3625a5e",
+      "bytes": 291,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "tests/golden_commit/fixtures/03_register_escalation/good_output.txt",
+      "output_path": "upstream/tests/golden_commit/fixtures/03_register_escalation/good_output.txt",
+      "git_blob_sha1": "8c23ca2f385c654d03b15440a439199f9dc4cf38",
+      "sha256": "ea881f7ae9fb13c3d3324ae7693f01d2bab01f107da9fd6462ba13ab1145e0d6",
+      "bytes": 47,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "tests/golden_commit/fixtures/03_register_escalation/input.txt",
+      "output_path": "upstream/tests/golden_commit/fixtures/03_register_escalation/input.txt",
+      "git_blob_sha1": "363db2210fe3e6753187be774df3f4685227c780",
+      "sha256": "2aa1c36b46e50890d9ebdd10ddca68c003121c356780522aa8c7bb8b291c4e98",
+      "bytes": 50,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "tests/humanize_asserts.py",
+      "output_path": "upstream/tests/humanize_asserts.py",
+      "git_blob_sha1": "f99ef7002ed2758f8130fd1699225326cd25c71c",
+      "sha256": "42c2028de799435b0611769fd84e8bb6b740133d15b4b3dcdd5c6dc57d0f580c",
+      "bytes": 2500,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "tests/humanize_runner.py",
+      "output_path": "upstream/tests/humanize_runner.py",
+      "git_blob_sha1": "439b81d9c4f003b1211e3f3003a876d0ff0d54ec",
+      "sha256": "28aed71a4bab2e261a234fa818c86faacdab5b8bf0c8e98d569b354266967939",
+      "bytes": 2467,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "tests/test_agent_inventory.py",
+      "output_path": "upstream/tests/test_agent_inventory.py",
+      "git_blob_sha1": "703e433774fef4b001954508e46895bd0e6b9e41",
+      "sha256": "76cf0c23a580a7276aa671e621b09fac75476958b61372222437357b891b0214",
+      "bytes": 4522,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "tests/test_chunking.py",
+      "output_path": "upstream/tests/test_chunking.py",
+      "git_blob_sha1": "a35958227d3c76e3709626a2b567491ab6674f22",
+      "sha256": "129cd4f03937bb2885fc3f34c9c73ed73b8830acc8982836065b64a72e7db9ef",
+      "bytes": 16970,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "tests/test_codex_package.py",
+      "output_path": "upstream/tests/test_codex_package.py",
+      "git_blob_sha1": "0991150967cd731ce8cd6414578e8fbd2311780b",
+      "sha256": "9bc5a615d970ec31cd7942823bdc6f8cd9199bcc4f6c05746702526dda632db1",
+      "bytes": 16218,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "tests/test_commit_lexicon_ids.py",
+      "output_path": "upstream/tests/test_commit_lexicon_ids.py",
+      "git_blob_sha1": "7a9e90d990e26f790e80504f2a54dde156e8f6ce",
+      "sha256": "af467a51bcfa991e5135972e277e679b29f10dfe0aeff23952514c550fe172f4",
+      "bytes": 3075,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "tests/test_commit_msg_lint.py",
+      "output_path": "upstream/tests/test_commit_msg_lint.py",
+      "git_blob_sha1": "2b3753b946c4a9ac132f0233be58feb74e251982",
+      "sha256": "12995f13955ee743c77cf8f4ac034a1ea70cc830601aafc415fd23458f58308d",
+      "bytes": 6072,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "tests/test_console_encoding.py",
+      "output_path": "upstream/tests/test_console_encoding.py",
+      "git_blob_sha1": "6fab1111328ad2f7bcece78aae11335343806d0b",
+      "sha256": "dcb1c9b2926798c2f9111196ec75f7951b3a76e4919fc23659c24f96341f84ce",
+      "bytes": 6879,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "tests/test_content_anchor_contract.py",
+      "output_path": "upstream/tests/test_content_anchor_contract.py",
+      "git_blob_sha1": "d0f43249239c30ae1bc911b72407e67800c1fd7c",
+      "sha256": "f0321e03a4a9df423961ac2a9ea1e98604da1b5bb012f65cc959d19d17e04053",
+      "bytes": 2792,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "tests/test_corruption_engine.py",
+      "output_path": "upstream/tests/test_corruption_engine.py",
+      "git_blob_sha1": "34352b43aa122cc90477949d0c6f325868c73b85",
+      "sha256": "c661931d6d854ced4cc75a43e2fee65c32c3d057669fb18a03b1cf0acb2a2faf",
+      "bytes": 3129,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "tests/test_diagnosis_rules_build.py",
+      "output_path": "upstream/tests/test_diagnosis_rules_build.py",
+      "git_blob_sha1": "bbd20ddf3f0ca58794bd00ee745a2e1673645921",
+      "sha256": "0f8e0859f83b7ad07049314cf97ee544f484646c137d97feddde6ce06c4494f5",
+      "bytes": 4622,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "tests/test_eval_compare.py",
+      "output_path": "upstream/tests/test_eval_compare.py",
+      "git_blob_sha1": "7aaf95d8b565e3e68554392e758ed33d103b6952",
+      "sha256": "b56bd49930c190708418a080fc013a5b8b749d69d5ec7c233bb470f8d02a8be2",
+      "bytes": 4681,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "tests/test_golden.py",
+      "output_path": "upstream/tests/test_golden.py",
+      "git_blob_sha1": "d1648c4b5e5604619c70c25e584fcced5ab5f33a",
+      "sha256": "82f18d1d94ecd1f164aa34f4e977c0e6c1071cc84b99c6d6ae78491047d62fb8",
+      "bytes": 15357,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "tests/test_golden_commit.py",
+      "output_path": "upstream/tests/test_golden_commit.py",
+      "git_blob_sha1": "60e146940e364ab82ba7eb76ef9310acfd52a227",
+      "sha256": "a5a4527314a35af7eeedf70a4de694127ea94dd963a4f49083d3a87150f0e178",
+      "bytes": 8229,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "tests/test_humanize_asserts.py",
+      "output_path": "upstream/tests/test_humanize_asserts.py",
+      "git_blob_sha1": "45eadad488b5c4f1c07ea78c082b8376f12489dc",
+      "sha256": "6e5b6e565b86f2b1384b17864f447fbec4279cf788c1da4ff8a2983c21098a3f",
+      "bytes": 2505,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "tests/test_humanize_e2e.py",
+      "output_path": "upstream/tests/test_humanize_e2e.py",
+      "git_blob_sha1": "f248d93570fca6a7bf28dd4bc7d87315a5e47ba0",
+      "sha256": "0f0170f9a50887541858b52774eb8ec880a8ea6b02247a5f74e971bd57341045",
+      "bytes": 3700,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "tests/test_humanize_live.py",
+      "output_path": "upstream/tests/test_humanize_live.py",
+      "git_blob_sha1": "0bfc0ebeea499b64f264538986e919355e126926",
+      "sha256": "8ab69c48d7b934c9d7bf16d5a45bf7f2260ac2daa9bed65b3ae18b53ce29219e",
+      "bytes": 3364,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "tests/test_humanize_scan.py",
+      "output_path": "upstream/tests/test_humanize_scan.py",
+      "git_blob_sha1": "97713861ff56695b5660f9d6ce75815ee28ad15a",
+      "sha256": "5d61b935aebcdd4d0dbaab1abfb4105e8d3d064e04ce68ca4953b86e9114791c",
+      "bytes": 1674,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "tests/test_install_flags.sh",
+      "output_path": "upstream/tests/test_install_flags.sh",
+      "git_blob_sha1": "4a71452e1c6121a7dd181937ae9ce954017f6dd3",
+      "sha256": "f9399fb5bfabc9c6bb823b306ccf028dc78d587c68dc3005a1ac28486a3d84a7",
+      "bytes": 7211,
+      "source_mode": "100755"
+    },
+    {
+      "source_path": "tests/test_install_smoke.sh",
+      "output_path": "upstream/tests/test_install_smoke.sh",
+      "git_blob_sha1": "731f99a53ed84eedb67718f9b51a1af66bc02344",
+      "sha256": "1422f337354bcbc83094065d5329bac5d23007ae73720946dfda009a1337a341",
+      "bytes": 7955,
+      "source_mode": "100755"
+    },
+    {
+      "source_path": "tests/test_metrics.py",
+      "output_path": "upstream/tests/test_metrics.py",
+      "git_blob_sha1": "3258c0ac4db0d17344b672e3b26f579aa448ccb8",
+      "sha256": "e68839f38dd5744bddb925cbc7aeb91911078cafb5a1d696fb23c7e77c7c395f",
+      "bytes": 11192,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "tests/test_metrics_v2.py",
+      "output_path": "upstream/tests/test_metrics_v2.py",
+      "git_blob_sha1": "fa131e2f704c0eb3f41efde1966a60706ad006bf",
+      "sha256": "473d2e54c1bb4281e0e86589270d8be49867422f90e1f9c09822d26a098b75b6",
+      "bytes": 27170,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "tests/test_metrics_v2_import.py",
+      "output_path": "upstream/tests/test_metrics_v2_import.py",
+      "git_blob_sha1": "8260a93a4f392a9673480d2c35602884948216d1",
+      "sha256": "8c2f2095ffb4346a1e819790372818b3f45742aa1e630d07ab3c173a4be29c84",
+      "bytes": 2287,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "tests/test_plugin_manifests.py",
+      "output_path": "upstream/tests/test_plugin_manifests.py",
+      "git_blob_sha1": "dc9d0fb148a2cb4fa06586a3e5bc5d562a4e38fa",
+      "sha256": "5ccc4c43b66c3ea29208b9fefd92b37232af985ad7692fd8040a2ff2fea73843",
+      "bytes": 1144,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "tests/test_pr94_residual.py",
+      "output_path": "upstream/tests/test_pr94_residual.py",
+      "git_blob_sha1": "2c8079a8ac014f072cd719adfe80e4ecda705e38",
+      "sha256": "adb5e2b03e630509376636133714e15d8de1b337a7f36365a865e4307c18f85e",
+      "bytes": 5139,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "tests/test_quick_rules_build.py",
+      "output_path": "upstream/tests/test_quick_rules_build.py",
+      "git_blob_sha1": "78b9492e640005d37aa125c7a1762665a5b33bea",
+      "sha256": "5fbc00b19d0ad2ee4a14505d3b83a2ae44ced9194491812f234016b51e47cd3e",
+      "bytes": 7173,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "tests/test_restore_modality.py",
+      "output_path": "upstream/tests/test_restore_modality.py",
+      "git_blob_sha1": "8e97b41bf275e879f71dc816d5f62b3866826c0c",
+      "sha256": "7acfd31bcd2d21d5fda5e0ba4060677916b8c79a3abf73533e4bc6eaa7a5abf5",
+      "bytes": 11077,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "tests/test_route_hint.py",
+      "output_path": "upstream/tests/test_route_hint.py",
+      "git_blob_sha1": "1750ffae106164c703460669b1ee7c2a8d1878ab",
+      "sha256": "3d00a391f712b18959a34da4935340d8ff2bab1c20d4c2e35934ddb353278c02",
+      "bytes": 10430,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "tests/test_run_dir_allocation.py",
+      "output_path": "upstream/tests/test_run_dir_allocation.py",
+      "git_blob_sha1": "783d26cd8704d7c79af346fa7e25334eb33adad1",
+      "sha256": "dbae58d6b97eb851f050de2cec1b67c51ef452e4a532d284a1f047533e66f1a0",
+      "bytes": 3382,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "tests/test_run_dir_resolution.py",
+      "output_path": "upstream/tests/test_run_dir_resolution.py",
+      "git_blob_sha1": "12a10e041f19356587de297d794714200d7b58c2",
+      "sha256": "c3cc78dc00b838936926dd9985fa6c08111b3c1d2b269e9e9e616cd7fc123b8b",
+      "bytes": 5103,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "tests/test_runtime_boundary.py",
+      "output_path": "upstream/tests/test_runtime_boundary.py",
+      "git_blob_sha1": "9d0f79a24599688bf352465fc4c88f6c362478db",
+      "sha256": "686305f12e31b79953b1a4c5a14850a920c94a0998a119ef2b8308a29c5154c2",
+      "bytes": 7949,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "tests/test_sanitize.py",
+      "output_path": "upstream/tests/test_sanitize.py",
+      "git_blob_sha1": "be5d76b5f5661ae7ffc531b70fb7356bacf46e7a",
+      "sha256": "4557938c79071c0d48829836846657d36d98e9e3e9213fd1267cec9295c7bb8c",
+      "bytes": 8837,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "tests/test_strip_injected_commas.py",
+      "output_path": "upstream/tests/test_strip_injected_commas.py",
+      "git_blob_sha1": "5fce2a9884e4054c6a11b2802ff8df994080f8dd",
+      "sha256": "cbc449ecd2e0f095765e2d548c9af1532cede17efbd717049d858351860c510a",
+      "bytes": 3443,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "tests/test_verify_gates.py",
+      "output_path": "upstream/tests/test_verify_gates.py",
+      "git_blob_sha1": "02bd0af29934334d223be491d2cb56698ee4822b",
+      "sha256": "6532deac54322b79b8b9703c6bfdcf0eae4078007f34beba953531161fd92750",
+      "bytes": 25401,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "tests/test_version_sync.py",
+      "output_path": "upstream/tests/test_version_sync.py",
+      "git_blob_sha1": "b0c49297a8329bcc7ada43f37f8ea03f19191023",
+      "sha256": "eb2a54877e45c4a0aaaaa846c4f38b11eebeb8f83f938712ffa76cb19888d0e1",
+      "bytes": 4677,
+      "source_mode": "100644"
+    },
+    {
+      "source_path": "uninstall.sh",
+      "output_path": "upstream/uninstall.sh",
+      "git_blob_sha1": "a44003a75beec4346d251785f16049e0ee2c098c",
+      "sha256": "e234777f20d390f087ed609e250983448ce00ca33676ec00363ecf4f87b3c390",
+      "bytes": 1856,
+      "source_mode": "100755"
+    },
+    {
+      "source_path": "update.sh",
+      "output_path": "upstream/update.sh",
+      "git_blob_sha1": "339a9be1455709f6da65849c6af25426e6aa22f6",
+      "sha256": "061fbe5a11a5d5e80f48ac97c633883cc276d63330a14efee79c1ef658be9f9b",
+      "bytes": 2971,
+      "source_mode": "100755"
+    }
+  ],
+  "excluded_count": 3,
+  "runtime_executed": false,
+  "global_installed": false,
+  "exclusions_note": "See README; unavailable references/images are intentionally omitted and original links were not rewritten.",
+  "explicit_exclusions": [
+    "assets/social-preview-v1.png",
+    "assets/social-preview-v2.0.png",
+    "assets/social-preview.png",
+    ".git"
+  ],
+  "symlink_preservation": "codex/skills/humanize-korean/references stored as original UTF-8 link target, not active symlink"
+}
